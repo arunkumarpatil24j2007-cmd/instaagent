@@ -50,6 +50,14 @@ Every generated piece of content passes through an autonomous critique and revis
 - One-click sample test loader for Carousels, Static Posts, Stories, Calendars, and Reels.
 - Copy-to-clipboard for Instagram captions, hashtags, and raw JSON payloads.
 
+### 6. Leno OS Native Compatibility & Schema Adapter 🚀
+Engineered for zero-friction integration with **Leno OS (Digital Distribution OS)** and **Leno UI**:
+- **Bidirectional Schema Bridge (`leno_adapter.py`)**: Seamlessly converts between Leno OS's `BrandProfileSchema`, `PlanSchema`, `StrategySchema` and the Instagram Agent contract.
+- **Strict `DraftSchema` & `CritiqueSchema` Validation**: Output maps directly to Leno OS's TypeScript/Zod models (`{ platform: "instagram", body, hashtags }` and `{ scores: { brand_voice, goal_fit, platform_fit, craft }, weighted, pass, fix_list }`).
+- **Drop-in TypeScript Platform Connector (`leno_connector.ts`)**: Ready to place directly into `Leno_OS/src/agents/platforms/instagram.ts`.
+- **Leno UI Creative Cockpit Endpoints**: Built-in `/api/draft`, `/api/generate-post`, and `/api/overview` endpoints ready for immediate connection.
+- Complete guide available in [`LENO_OS_INTEGRATION.md`](./LENO_OS_INTEGRATION.md).
+
 ---
 
 ## 📂 Project Structure

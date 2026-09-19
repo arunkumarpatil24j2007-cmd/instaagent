@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "instaagent"
+version = "2.0.0"
+description = "Autonomous Instagram Specialist Agent with Leno OS compatibility"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pydantic>=2.5.0",
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0"
+]
+
+[project.optional-dependencies]
+full = [
+    "google-genai>=0.1.1",
+    "pillow>=10.0.0"
+]
