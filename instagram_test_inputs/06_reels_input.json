@@ -1,0 +1,16 @@
+{
+  "brand": {
+    "brand_name": "HyperLoop Coffee",
+    "industry": "Coffee & Beverage",
+    "target_audience": "Specialty coffee lovers, baristas",
+    "account_handle": "@hyperloopcoffee"
+  },
+  "task": {
+    "type": "reels_generate",
+    "topic": "3 Espresso Calibration Hacks You Never Knew",
+    "target_format": "reel"
+  },
+  "constraints": {
+    "content_type": "reel"
+  }
+}

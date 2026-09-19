@@ -1,0 +1,37 @@
+{
+  "status": "missing_context",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "carousel",
+  "brand_summary": null,
+  "research": null,
+  "strategy": null,
+  "hooks": [],
+  "captions": [],
+  "carousel": null,
+  "static_post": null,
+  "story_sequence": null,
+  "calendar": null,
+  "creative": {
+    "required": false,
+    "assets": []
+  },
+  "approval_state": null,
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 10.0,
+    "issues": [],
+    "iterations": 1
+  },
+  "missing_context": {
+    "missing_fields": [
+      "brand.brand_name",
+      "task.topic or task.objective"
+    ],
+    "why_needed": "Required to ground Instagram content strategy and brand positioning accurately.",
+    "workaround_status": "Cannot generate brand-aligned content without basic brand identity."
+  },
+  "reels_notice": null
+}

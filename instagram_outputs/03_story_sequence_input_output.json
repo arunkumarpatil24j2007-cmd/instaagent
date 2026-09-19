@@ -1,0 +1,418 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "story_sequence",
+  "brand_summary": {
+    "brand_name": "Solstice Apparel",
+    "industry": "Sustainable Athleisure",
+    "target_audience": "Active outdoor enthusiasts, runners, yoga practitioners",
+    "account_handle": "@solstice_fit",
+    "brand_voice": "Energizing, raw, authentic, community-driven",
+    "colors": [
+      "#1E1B4B",
+      "#FB7185",
+      "#FBBF24"
+    ]
+  },
+  "research": {
+    "brand": {
+      "positioning": "Zero-compromise athletic wear for conscious movement",
+      "products_services": [
+        "Recycled Seamless Leggings",
+        "Merino Wool Flow Tanks"
+      ],
+      "target_audience": "Active outdoor enthusiasts, runners, yoga practitioners",
+      "industry": "Sustainable Athleisure",
+      "differentiators": [
+        "Unique market position",
+        "Strong brand identity",
+        "Domain expertise"
+      ],
+      "brand_personality": "Energizing, raw, authentic, community-driven",
+      "tone_of_voice": "Vibrant and empowering",
+      "visual_style": "Clean modern design with bold typography and brand color consistency",
+      "common_content_themes": [
+        "Behind-The-Scenes",
+        "Flash Drops",
+        "Community Challenges"
+      ],
+      "cta_patterns": [
+        "DM for details",
+        "Save this post",
+        "Link in bio",
+        "Comment below"
+      ],
+      "hashtag_strategy": [
+        "#SolsticeApparel"
+      ],
+      "posting_frequency": "3-4 posts per week",
+      "top_performing_formats": [
+        "carousel",
+        "story_sequence"
+      ],
+      "existing_content_analysis": "Active posting with room for optimization."
+    },
+    "competitors": [
+      {
+        "name": "Outdoor Voices",
+        "handle": "@outdoorvoices",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "Vuori",
+        "handle": "@vuori",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "Girlfriend Collective",
+        "handle": "@girlfriendcollective",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      }
+    ],
+    "industry_trends": [
+      {
+        "topic": "Sustainable Athleisure Content Trends on Instagram",
+        "relevance_score": 9.2,
+        "key_takeaway": "Educational carousels generate 3x more saves than static posts.",
+        "content_opportunity": "Framework-based carousel series with actionable takeaways."
+      },
+      {
+        "topic": "Interactive Stories for Lead Generation",
+        "relevance_score": 8.5,
+        "key_takeaway": "Stories with polls and questions increase completion rate by 40%.",
+        "content_opportunity": "Weekly interactive story sequences with CTA stickers."
+      }
+    ],
+    "audience_pain_points": [
+      "Struggling to stand out in Sustainable Athleisure",
+      "Lack of a clear content strategy framework",
+      "Difficulty measuring ROI from social content",
+      "Inconsistent posting schedule"
+    ],
+    "content_opportunities": [
+      "Educational carousel series",
+      "Interactive story sequences with polls",
+      "Bold single-graphic authority posts",
+      "Behind-the-scenes brand stories"
+    ],
+    "platform_standards_applied": [
+      "Use a high-impact hook in Slide 1 / first line (before fold).",
+      "Keep carousel slide copy to 20-30 words max per slide for readability.",
+      "Use bold typography hierarchy: Headline \u2192 Subhead \u2192 Body \u2192 CTA.",
+      "Include brand colors and logo on every carousel slide for consistency.",
+      "Use single-column layouts for mobile-first readability.",
+      "Place a clear CTA on the final slide (carousel) or end of caption.",
+      "Caption: Start with the hook, break into short paragraphs, end with CTA.",
+      "Hashtags: Mix 5 broad + 5 niche + 5 branded for optimal discovery.",
+      "Use line breaks and emojis strategically to improve caption scannability.",
+      "Stories: Use interactive stickers on at least 1 in every 3 stories."
+    ]
+  },
+  "strategy": {
+    "brand_name": "Solstice Apparel",
+    "objective": "sales",
+    "content_pillars": [
+      "Behind-The-Scenes",
+      "Flash Drops",
+      "Community Challenges"
+    ],
+    "format_mix_percentage": {
+      "carousel": 50,
+      "static_post": 20,
+      "story_sequence": 30
+    },
+    "content_ideas": [
+      {
+        "title": "Quick Guide: The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal",
+        "format": "story_sequence",
+        "content_pillar": "Educational",
+        "objective": "sales",
+        "hook": "Swipe through for the fastest way to...",
+        "core_idea": "4-part interactive walkthrough",
+        "cta": "Tap the link to get the full guide",
+        "visual_direction": "Progressive story with poll and CTA stickers",
+        "caption_direction": "N/A (stories don't have external captions)"
+      }
+    ],
+    "strategic_recommendations": [
+      "Lead with educational carousels \u2014 highest saves and shares on IG.",
+      "Use interactive story stickers (polls, questions) at least 2x per week.",
+      "Maintain visual consistency with brand colors across all formats.",
+      "Post 3-4 times per week for optimal algorithm performance.",
+      "Use a mix of 3 content pillars to avoid content fatigue."
+    ],
+    "target_audience": "Active outdoor enthusiasts, runners, yoga practitioners",
+    "content_angle": "Framework-driven educational content about The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal",
+    "tone_and_style": "Energizing, raw, authentic, community-driven",
+    "posting_frequency": "4 posts per week",
+    "best_posting_times": [
+      "Tuesday 9AM",
+      "Thursday 12PM",
+      "Saturday 10AM"
+    ]
+  },
+  "hooks": [
+    {
+      "style": "Curiosity",
+      "hook_text": "What top 1% Active outdoor enthusiasts, runners, yoga practitioners know about The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal (that nobody talks about)",
+      "rationale": "Curiosity gap + exclusivity drives saves and shares",
+      "angle": "Mystery / insider knowledge"
+    },
+    {
+      "style": "Contrarian",
+      "hook_text": "Stop following The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal advice from people who've never done it",
+      "rationale": "Pattern interrupt challenges conventional wisdom",
+      "angle": "Bold contrarian statement"
+    },
+    {
+      "style": "Metric",
+      "hook_text": "We tested The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal for 90 days. Here are the real numbers.",
+      "rationale": "Specific data and timeframes build credibility",
+      "angle": "Data-backed proof"
+    }
+  ],
+  "captions": [
+    {
+      "version": "v1",
+      "caption_text": "90% of Active outdoor enthusiasts, runners, yoga practitioners get The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal completely wrong.\n\nMost people overcomplicate The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal.\n\nThe truth is simpler than you think.\n\nThe top performers share one thing in common: they build repeatable systems.\n\n\ud83d\udca1 Save this post for later\n\ud83d\udd01 Share with someone who needs this\n\ud83d\udcac DM us 'SOLSTICE' for the free guide\n\n.\n.\n.\n#SolsticeApparel #TheOceanPlastictoPerformanceFabric24-HourFlashReveal #ContentStrategy #SocialMediaMarketing #InstagramGrowth #DigitalMarketing #ContentCreation #BusinessTips #MarketingStrategy #GrowthHacking #Entrepreneurship #LeadershipDevelopment",
+      "hashtags": [
+        "#SolsticeApparel",
+        "#TheOceanPlastictoPerformanceFabric24-HourFlashReveal",
+        "#ContentStrategy",
+        "#SocialMediaMarketing",
+        "#InstagramGrowth",
+        "#DigitalMarketing",
+        "#ContentCreation",
+        "#BusinessTips",
+        "#MarketingStrategy",
+        "#GrowthHacking",
+        "#Entrepreneurship",
+        "#LeadershipDevelopment"
+      ]
+    }
+  ],
+  "carousel": null,
+  "static_post": null,
+  "story_sequence": {
+    "sequence_title": "The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal \u2014 Quick Guide",
+    "objective": "sales",
+    "total_stories": 4,
+    "stories": [
+      {
+        "story_number": 1,
+        "story_type": "educational",
+        "headline": "Wait... Did You Know This?",
+        "copy": "Most Active outdoor enthusiasts, runners, yoga practitioners miss this completely...",
+        "visual_direction": "Branded educational story with  sticker",
+        "interactive_element": "",
+        "graphic_asset_url": "https://assets.instagram.example.com/solstice_apparel/story/frame_1.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_1)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Wait... Did You Know</tspan><tspan x=\"540\" dy=\"72\">This?</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Most Active outdoor enthusiasts,</tspan><tspan x=\"540\" dy=\"40\">runners, yoga practitioners miss</tspan><tspan x=\"540\" dy=\"40\">this completely...</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "story_number": 2,
+        "story_type": "educational",
+        "headline": "Here's The Key Insight",
+        "copy": "The top performers focus on systems, not just tactics.",
+        "visual_direction": "Branded educational story with  sticker",
+        "interactive_element": "",
+        "graphic_asset_url": "https://assets.instagram.example.com/solstice_apparel/story/frame_2.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_2\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_2)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Here&#x27;s The Key Insight</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">The top performers focus on systems,</tspan><tspan x=\"540\" dy=\"40\">not just tactics.</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "story_number": 3,
+        "story_type": "engagement",
+        "headline": "Quick Poll",
+        "copy": "Which matters more for growth?",
+        "visual_direction": "Branded engagement story with poll_sticker sticker",
+        "interactive_element": "poll_sticker",
+        "graphic_asset_url": "https://assets.instagram.example.com/solstice_apparel/story/frame_3.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_3\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_3)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Quick Poll</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Which matters more for growth?</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n    <rect x=\"200\" y=\"1350\" width=\"680\" height=\"180\" rx=\"20\" fill=\"white\" opacity=\"0.15\"/>\n    <text x=\"540\" y=\"1400\" font-family=\"Inter, Arial, sans-serif\" font-size=\"22\"\n          fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">What do you think?</text>\n    <rect x=\"240\" y=\"1420\" width=\"280\" height=\"50\" rx=\"25\" fill=\"#FB7185\" opacity=\"0.8\"/>\n    <text x=\"380\" y=\"1452\" font-family=\"Inter, sans-serif\" font-size=\"18\" fill=\"white\"\n          text-anchor=\"middle\" font-weight=\"600\">Option A</text>\n    <rect x=\"560\" y=\"1420\" width=\"280\" height=\"50\" rx=\"25\" fill=\"#FBBF24\" opacity=\"0.8\"/>\n    <text x=\"700\" y=\"1452\" font-family=\"Inter, sans-serif\" font-size=\"18\" fill=\"white\"\n          text-anchor=\"middle\" font-weight=\"600\">Option B</text>\n        \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "story_number": 4,
+        "story_type": "cta",
+        "headline": "Get The Full Guide",
+        "copy": "Tap below to grab our free The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal blueprint",
+        "visual_direction": "Branded cta story with link_sticker sticker",
+        "interactive_element": "link_sticker",
+        "graphic_asset_url": "https://assets.instagram.example.com/solstice_apparel/story/frame_4.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_4\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#FB718544\"/><stop offset=\"100%\" stop-color=\"#1E1B4B\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_4)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Get The Full Guide</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Tap below to grab our free The Ocean</tspan><tspan x=\"540\" dy=\"40\">Plastic to Performance Fabric</tspan><tspan x=\"540\" dy=\"40\">24-Hour Flash Reveal blueprint</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n    <rect x=\"340\" y=\"1400\" width=\"400\" height=\"56\" rx=\"28\" fill=\"#FB7185\"/>\n    <text x=\"540\" y=\"1435\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n          fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">\ud83d\udd17 Tap to Learn More</text>\n        \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      }
+    ],
+    "cta": "Tap the link sticker on the final story"
+  },
+  "calendar": null,
+  "creative": {
+    "required": true,
+    "assets": [
+      {
+        "asset_id": "story_frame_1",
+        "format": "story_frame",
+        "prompt": "Branded educational story with  sticker",
+        "description": "Story 1: Wait... Did You Know This?",
+        "status": "generated",
+        "dimensions": "1080x1920",
+        "url": "https://assets.instagram.example.com/solstice_apparel/story/frame_1.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_1\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_1)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Wait... Did You Know</tspan><tspan x=\"540\" dy=\"72\">This?</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Most Active outdoor enthusiasts,</tspan><tspan x=\"540\" dy=\"40\">runners, yoga practitioners miss</tspan><tspan x=\"540\" dy=\"40\">this completely...</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "asset_id": "story_frame_2",
+        "format": "story_frame",
+        "prompt": "Branded educational story with  sticker",
+        "description": "Story 2: Here's The Key Insight",
+        "status": "generated",
+        "dimensions": "1080x1920",
+        "url": "https://assets.instagram.example.com/solstice_apparel/story/frame_2.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_2\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_2)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Here&#x27;s The Key Insight</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">The top performers focus on systems,</tspan><tspan x=\"540\" dy=\"40\">not just tactics.</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "asset_id": "story_frame_3",
+        "format": "story_frame",
+        "prompt": "Branded engagement story with poll_sticker sticker",
+        "description": "Story 3: Quick Poll",
+        "status": "generated",
+        "dimensions": "1080x1920",
+        "url": "https://assets.instagram.example.com/solstice_apparel/story/frame_3.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_3\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#1E1B4Bee\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_3)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"rgba(255,255,255,0.3)\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Quick Poll</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Which matters more for growth?</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n    <rect x=\"200\" y=\"1350\" width=\"680\" height=\"180\" rx=\"20\" fill=\"white\" opacity=\"0.15\"/>\n    <text x=\"540\" y=\"1400\" font-family=\"Inter, Arial, sans-serif\" font-size=\"22\"\n          fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">What do you think?</text>\n    <rect x=\"240\" y=\"1420\" width=\"280\" height=\"50\" rx=\"25\" fill=\"#FB7185\" opacity=\"0.8\"/>\n    <text x=\"380\" y=\"1452\" font-family=\"Inter, sans-serif\" font-size=\"18\" fill=\"white\"\n          text-anchor=\"middle\" font-weight=\"600\">Option A</text>\n    <rect x=\"560\" y=\"1420\" width=\"280\" height=\"50\" rx=\"25\" fill=\"#FBBF24\" opacity=\"0.8\"/>\n    <text x=\"700\" y=\"1452\" font-family=\"Inter, sans-serif\" font-size=\"18\" fill=\"white\"\n          text-anchor=\"middle\" font-weight=\"600\">Option B</text>\n        \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      },
+      {
+        "asset_id": "story_frame_4",
+        "format": "story_frame",
+        "prompt": "Branded cta story with link_sticker sticker",
+        "description": "Story 4: Get The Full Guide",
+        "status": "generated",
+        "dimensions": "1080x1920",
+        "url": "https://assets.instagram.example.com/solstice_apparel/story/frame_4.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1920\" width=\"1080\" height=\"1920\">\n  <defs>\n    <linearGradient id=\"story_bg_4\" x1=\"0\" y1=\"0\" x2=\"0\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#FB718544\"/><stop offset=\"100%\" stop-color=\"#1E1B4B\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1920\" fill=\"url(#story_bg_4)\"/>\n\n  <!-- Progress bar -->\n  <rect x=\"20\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"282\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"543\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/><rect x=\"804\" y=\"30\" width=\"256\" height=\"3\" rx=\"1.5\" fill=\"white\"/>\n\n  <!-- Brand name top -->\n  <text x=\"540\" y=\"90\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"18\"\n        fill=\"white\" opacity=\"0.7\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"2\">\n    Solstice Apparel\n  </text>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"700\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"58\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Get The Full Guide</tspan>\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"950\" font-family=\"Inter, Arial, sans-serif\" font-size=\"26\"\n        fill=\"white\" opacity=\"0.8\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Tap below to grab our free The Ocean</tspan><tspan x=\"540\" dy=\"40\">Plastic to Performance Fabric</tspan><tspan x=\"540\" dy=\"40\">24-Hour Flash Reveal blueprint</tspan>\n  </text>\n\n  <!-- Interactive element -->\n  \n    <rect x=\"340\" y=\"1400\" width=\"400\" height=\"56\" rx=\"28\" fill=\"#FB7185\"/>\n    <text x=\"540\" y=\"1435\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n          fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">\ud83d\udd17 Tap to Learn More</text>\n        \n\n  <!-- Swipe up indicator -->\n  <text x=\"540\" y=\"1830\" font-family=\"Inter, Arial, sans-serif\" font-size=\"14\"\n        fill=\"white\" opacity=\"0.4\" text-anchor=\"middle\" letter-spacing=\"2\">\n    SWIPE UP\n  </text>\n  <line x1=\"530\" y1=\"1840\" x2=\"540\" y2=\"1850\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n  <line x1=\"540\" y1=\"1850\" x2=\"550\" y2=\"1840\" stroke=\"white\" stroke-opacity=\"0.4\" stroke-width=\"2\"/>\n</svg>"
+      }
+    ]
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "story_v1"
+      },
+      {
+        "version": "story_sequence_v2"
+      },
+      {
+        "version": "final_polished"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 3
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

@@ -1,0 +1,15 @@
+{
+  "brand": {
+    "brand_name": "",
+    "industry": "",
+    "target_audience": ""
+  },
+  "task": {
+    "type": "create_content",
+    "topic": "",
+    "objective": ""
+  },
+  "constraints": {
+    "content_type": "carousel"
+  }
+}

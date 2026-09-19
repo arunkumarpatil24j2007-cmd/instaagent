@@ -1,0 +1,417 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content_calendar",
+  "content_type": "content_calendar",
+  "brand_summary": {
+    "brand_name": "KiteMetrics",
+    "industry": "B2B SaaS / Product Analytics",
+    "target_audience": "Growth PMs, Startup Founders, Head of Growth",
+    "account_handle": "@kitemetrics",
+    "brand_voice": "Data-informed, provocative, clear, high-utility",
+    "colors": [
+      "#022C22",
+      "#10B981",
+      "#34D399"
+    ]
+  },
+  "research": {
+    "brand": {
+      "positioning": "Product analytics without the data engineering headache",
+      "products_services": [
+        "User Session Replays",
+        "Funnel Analytics",
+        "Churn Prediction Engine"
+      ],
+      "target_audience": "Growth PMs, Startup Founders, Head of Growth",
+      "industry": "B2B SaaS / Product Analytics",
+      "differentiators": [
+        "Unique market position",
+        "Strong brand identity",
+        "Domain expertise"
+      ],
+      "brand_personality": "Data-informed, provocative, clear, high-utility",
+      "tone_of_voice": "Direct and insightful",
+      "visual_style": "Clean modern design with bold typography and brand color consistency",
+      "common_content_themes": [
+        "SaaS Metrics Benchmarks",
+        "Growth Teardowns",
+        "Feature Launch Spotlights",
+        "Community Questions"
+      ],
+      "cta_patterns": [
+        "DM for details",
+        "Save this post",
+        "Link in bio",
+        "Comment below"
+      ],
+      "hashtag_strategy": [
+        "#KiteMetrics"
+      ],
+      "posting_frequency": "3-4 posts per week",
+      "top_performing_formats": [
+        "carousel",
+        "story_sequence"
+      ],
+      "existing_content_analysis": "Active posting with room for optimization."
+    },
+    "competitors": [
+      {
+        "name": "Mixpanel",
+        "handle": "@mixpanel",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "Amplitude",
+        "handle": "@amplitude",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "PostHog",
+        "handle": "@posthog",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      }
+    ],
+    "industry_trends": [
+      {
+        "topic": "B2B SaaS / Product Analytics Content Trends on Instagram",
+        "relevance_score": 9.2,
+        "key_takeaway": "Educational carousels generate 3x more saves than static posts.",
+        "content_opportunity": "Framework-based carousel series with actionable takeaways."
+      },
+      {
+        "topic": "Interactive Stories for Lead Generation",
+        "relevance_score": 8.5,
+        "key_takeaway": "Stories with polls and questions increase completion rate by 40%.",
+        "content_opportunity": "Weekly interactive story sequences with CTA stickers."
+      }
+    ],
+    "audience_pain_points": [
+      "Struggling to stand out in B2B SaaS / Product Analytics",
+      "Lack of a clear content strategy framework",
+      "Difficulty measuring ROI from social content",
+      "Inconsistent posting schedule"
+    ],
+    "content_opportunities": [
+      "Educational carousel series",
+      "Interactive story sequences with polls",
+      "Bold single-graphic authority posts",
+      "Behind-the-scenes brand stories"
+    ],
+    "platform_standards_applied": [
+      "Use a high-impact hook in Slide 1 / first line (before fold).",
+      "Keep carousel slide copy to 20-30 words max per slide for readability.",
+      "Use bold typography hierarchy: Headline \u2192 Subhead \u2192 Body \u2192 CTA.",
+      "Include brand colors and logo on every carousel slide for consistency.",
+      "Use single-column layouts for mobile-first readability.",
+      "Place a clear CTA on the final slide (carousel) or end of caption.",
+      "Caption: Start with the hook, break into short paragraphs, end with CTA.",
+      "Hashtags: Mix 5 broad + 5 niche + 5 branded for optimal discovery.",
+      "Use line breaks and emojis strategically to improve caption scannability.",
+      "Stories: Use interactive stickers on at least 1 in every 3 stories."
+    ]
+  },
+  "strategy": {
+    "brand_name": "KiteMetrics",
+    "objective": "lead_generation",
+    "content_pillars": [
+      "SaaS Metrics Benchmarks",
+      "Growth Teardowns",
+      "Feature Launch Spotlights",
+      "Community Questions"
+    ],
+    "format_mix_percentage": {
+      "carousel": 50,
+      "static_post": 20,
+      "story_sequence": 30
+    },
+    "content_ideas": [
+      {
+        "title": "The Framework for SaaS Product Onboarding & Retention Masterclass",
+        "format": "carousel",
+        "content_pillar": "Educational",
+        "objective": "lead_generation",
+        "hook": "90% of Growth PMs, Startup Founders, Head of Growth get this wrong.",
+        "core_idea": "Step-by-step breakdown of SaaS Product Onboarding & Retention Masterclass",
+        "cta": "Save this post and DM us 'GUIDE' for the free resource.",
+        "visual_direction": "Bold slide 1 hook, clean steps, branded CTA slide",
+        "caption_direction": "Expand on the framework, add personal insight, hashtags"
+      },
+      {
+        "title": "The Truth About SaaS Product Onboarding & Retention Masterclass",
+        "format": "static_post",
+        "content_pillar": "Authority",
+        "objective": "lead_generation",
+        "hook": "Unpopular opinion about SaaS Product Onboarding & Retention Masterclass",
+        "core_idea": "Bold contrarian statement with supporting data",
+        "cta": "Agree or disagree? Drop your take below \ud83d\udc47",
+        "visual_direction": "Single bold graphic with headline and stat",
+        "caption_direction": "Expand on the contrarian take, invite discussion"
+      },
+      {
+        "title": "Quick Guide: SaaS Product Onboarding & Retention Masterclass",
+        "format": "story_sequence",
+        "content_pillar": "Educational",
+        "objective": "lead_generation",
+        "hook": "Swipe through for the fastest way to...",
+        "core_idea": "4-part interactive walkthrough",
+        "cta": "Tap the link to get the full guide",
+        "visual_direction": "Progressive story with poll and CTA stickers",
+        "caption_direction": "N/A (stories don't have external captions)"
+      }
+    ],
+    "strategic_recommendations": [
+      "Lead with educational carousels \u2014 highest saves and shares on IG.",
+      "Use interactive story stickers (polls, questions) at least 2x per week.",
+      "Maintain visual consistency with brand colors across all formats.",
+      "Post 3-4 times per week for optimal algorithm performance.",
+      "Use a mix of 4 content pillars to avoid content fatigue."
+    ],
+    "target_audience": "Growth PMs, Startup Founders, Head of Growth",
+    "content_angle": "Framework-driven educational content about SaaS Product Onboarding & Retention Masterclass",
+    "tone_and_style": "Data-informed, provocative, clear, high-utility",
+    "posting_frequency": "4 posts per week",
+    "best_posting_times": [
+      "Tuesday 9AM",
+      "Thursday 12PM",
+      "Saturday 10AM"
+    ]
+  },
+  "hooks": [],
+  "captions": [],
+  "carousel": null,
+  "static_post": null,
+  "story_sequence": null,
+  "calendar": {
+    "duration": "2 Weeks",
+    "total_posts": 8,
+    "calendar_entries": [
+      {
+        "date": "Week 1, Monday",
+        "day_of_week": "Monday",
+        "topic": "The Truth About SaaS Product Onboarding & Retention Masterclass",
+        "format": "carousel",
+        "content_pillar": "Educational",
+        "hook": "90% of Growth PMs, Startup Founders, Head of Growth get this wrong about SaaS Product Onboarding & Retention Masterclass",
+        "cta": "Save this and DM 'KITEMETRICS' for the free guide",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Educational | Format: carousel"
+      },
+      {
+        "date": "Week 1, Wednesday",
+        "day_of_week": "Wednesday",
+        "topic": "SaaS Product Onboarding & Retention Masterclass Quick Tips",
+        "format": "static_post",
+        "content_pillar": "Authority",
+        "hook": "Unpopular opinion: SaaS Product Onboarding & Retention Masterclass is broken. Here's why.",
+        "cta": "Agree or disagree? Drop your take below \ud83d\udc47",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Authority | Format: static_post"
+      },
+      {
+        "date": "Week 1, Friday",
+        "day_of_week": "Friday",
+        "topic": "SaaS Product Onboarding & Retention Masterclass Case Study",
+        "format": "story_sequence",
+        "content_pillar": "Engagement",
+        "hook": "Quick question: What's your biggest challenge with SaaS Product Onboarding & Retention Masterclass?",
+        "cta": "Vote in the poll / Share your answer below",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Engagement | Format: story_sequence"
+      },
+      {
+        "date": "Week 1, Saturday",
+        "day_of_week": "Saturday",
+        "topic": "Common SaaS Product Onboarding & Retention Masterclass Mistakes",
+        "format": "carousel",
+        "content_pillar": "Social Proof",
+        "hook": "How our client achieved 3x growth using SaaS Product Onboarding & Retention Masterclass",
+        "cta": "Want results like this? Link in bio \u2197",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Social Proof | Format: carousel"
+      },
+      {
+        "date": "Week 2, Monday",
+        "day_of_week": "Monday",
+        "topic": "SaaS Product Onboarding & Retention Masterclass vs Traditional Approaches",
+        "format": "carousel",
+        "content_pillar": "Educational",
+        "hook": "90% of Growth PMs, Startup Founders, Head of Growth get this wrong about SaaS Product Onboarding & Retention Masterclass",
+        "cta": "Save this and DM 'KITEMETRICS' for the free guide",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Educational | Format: carousel"
+      },
+      {
+        "date": "Week 2, Wednesday",
+        "day_of_week": "Wednesday",
+        "topic": "Behind The Scenes: SaaS Product Onboarding & Retention Masterclass",
+        "format": "static_post",
+        "content_pillar": "Authority",
+        "hook": "Unpopular opinion: SaaS Product Onboarding & Retention Masterclass is broken. Here's why.",
+        "cta": "Agree or disagree? Drop your take below \ud83d\udc47",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Authority | Format: static_post"
+      },
+      {
+        "date": "Week 2, Friday",
+        "day_of_week": "Friday",
+        "topic": "SaaS Product Onboarding & Retention Masterclass Results Showcase",
+        "format": "story_sequence",
+        "content_pillar": "Engagement",
+        "hook": "Quick question: What's your biggest challenge with SaaS Product Onboarding & Retention Masterclass?",
+        "cta": "Vote in the poll / Share your answer below",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Engagement | Format: story_sequence"
+      },
+      {
+        "date": "Week 2, Saturday",
+        "day_of_week": "Saturday",
+        "topic": "SaaS Product Onboarding & Retention Masterclass Framework Breakdown",
+        "format": "carousel",
+        "content_pillar": "Social Proof",
+        "hook": "How our client achieved 3x growth using SaaS Product Onboarding & Retention Masterclass",
+        "cta": "Want results like this? Link in bio \u2197",
+        "status": "Draft",
+        "objective": "lead_generation",
+        "notes": "Content pillar: Social Proof | Format: carousel"
+      }
+    ],
+    "format_distribution": {
+      "carousel": 4,
+      "static_post": 2,
+      "story_sequence": 2
+    }
+  },
+  "creative": {
+    "required": false,
+    "assets": []
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "calendar_v1"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 1
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

@@ -1,0 +1,38 @@
+{
+  "brand": {
+    "brand_name": "Solstice Apparel",
+    "industry": "Sustainable Athleisure",
+    "location": "Los Angeles, CA",
+    "target_audience": "Active outdoor enthusiasts, runners, yoga practitioners",
+    "buyer_persona": "Eco-conscious urban professionals who value performance fabrics made from recycled ocean plastics",
+    "products_services": ["Recycled Seamless Leggings", "Merino Wool Flow Tanks"],
+    "offers": ["Exclusive 24-Hour VIP Flash Drop access"],
+    "positioning": "Zero-compromise athletic wear for conscious movement",
+    "brand_voice": "Energizing, raw, authentic, community-driven",
+    "tone": "Vibrant and empowering",
+    "colors": ["#1E1B4B", "#FB7185", "#FBBF24"],
+    "typography": {
+      "heading": "Outfit",
+      "body": "Inter"
+    },
+    "competitors": ["Outdoor Voices", "Vuori", "Girlfriend Collective"],
+    "content_pillars": ["Behind-The-Scenes", "Flash Drops", "Community Challenges"],
+    "business_goals": ["Story link sticker conversions", "Direct message inquiries"],
+    "marketing_objectives": ["Maximize 24h story completion rate"],
+    "account_handle": "@solstice_fit",
+    "website": "https://solsticeapparel.co"
+  },
+  "task": {
+    "type": "create_content",
+    "topic": "The Ocean Plastic to Performance Fabric 24-Hour Flash Reveal",
+    "objective": "sales",
+    "target_format": "story_sequence"
+  },
+  "constraints": {
+    "content_type": "story_sequence",
+    "language": "English",
+    "max_stories": 4,
+    "approval_required": true,
+    "max_iterations": 2
+  }
+}

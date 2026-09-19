@@ -1,0 +1,351 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "static_post",
+  "brand_summary": {
+    "brand_name": "Aura Matcha",
+    "industry": "Health & Wellness / Direct-to-Consumer Beverage",
+    "target_audience": "Mindful professionals, biohackers, aesthetic coffee alternatives seekers",
+    "account_handle": "@auramatcha",
+    "brand_voice": "Serene, minimalist, elevated, sensory-rich",
+    "colors": [
+      "#14281D",
+      "#A3B18A",
+      "#D4A373"
+    ]
+  },
+  "research": {
+    "brand": {
+      "positioning": "Single-origin ceremonial matcha for focused calm",
+      "products_services": [
+        "Ceremonial Grade Uji Matcha",
+        "Bamboo Whisk & Ceramic Bowl Kit"
+      ],
+      "target_audience": "Mindful professionals, biohackers, aesthetic coffee alternatives seekers",
+      "industry": "Health & Wellness / Direct-to-Consumer Beverage",
+      "differentiators": [
+        "Unique market position",
+        "Strong brand identity",
+        "Domain expertise"
+      ],
+      "brand_personality": "Serene, minimalist, elevated, sensory-rich",
+      "tone_of_voice": "Calm, grounding, intentional",
+      "visual_style": "Clean modern design with bold typography and brand color consistency",
+      "common_content_themes": [
+        "Morning Rituals",
+        "L-Theanine Science",
+        "Single-Origin Craft"
+      ],
+      "cta_patterns": [
+        "DM for details",
+        "Save this post",
+        "Link in bio",
+        "Comment below"
+      ],
+      "hashtag_strategy": [
+        "#AuraMatcha"
+      ],
+      "posting_frequency": "3-4 posts per week",
+      "top_performing_formats": [
+        "carousel",
+        "story_sequence"
+      ],
+      "existing_content_analysis": "Active posting with room for optimization."
+    },
+    "competitors": [
+      {
+        "name": "Ippodo Tea",
+        "handle": "@ippodotea",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "Golde",
+        "handle": "@golde",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "Clevr Blends",
+        "handle": "@clevrblends",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      }
+    ],
+    "industry_trends": [
+      {
+        "topic": "Health & Wellness / Direct-to-Consumer Beverage Content Trends on Instagram",
+        "relevance_score": 9.2,
+        "key_takeaway": "Educational carousels generate 3x more saves than static posts.",
+        "content_opportunity": "Framework-based carousel series with actionable takeaways."
+      },
+      {
+        "topic": "Interactive Stories for Lead Generation",
+        "relevance_score": 8.5,
+        "key_takeaway": "Stories with polls and questions increase completion rate by 40%.",
+        "content_opportunity": "Weekly interactive story sequences with CTA stickers."
+      }
+    ],
+    "audience_pain_points": [
+      "Struggling to stand out in Health & Wellness / Direct-to-Consumer Beverage",
+      "Lack of a clear content strategy framework",
+      "Difficulty measuring ROI from social content",
+      "Inconsistent posting schedule"
+    ],
+    "content_opportunities": [
+      "Educational carousel series",
+      "Interactive story sequences with polls",
+      "Bold single-graphic authority posts",
+      "Behind-the-scenes brand stories"
+    ],
+    "platform_standards_applied": [
+      "Use a high-impact hook in Slide 1 / first line (before fold).",
+      "Keep carousel slide copy to 20-30 words max per slide for readability.",
+      "Use bold typography hierarchy: Headline \u2192 Subhead \u2192 Body \u2192 CTA.",
+      "Include brand colors and logo on every carousel slide for consistency.",
+      "Use single-column layouts for mobile-first readability.",
+      "Place a clear CTA on the final slide (carousel) or end of caption.",
+      "Caption: Start with the hook, break into short paragraphs, end with CTA.",
+      "Hashtags: Mix 5 broad + 5 niche + 5 branded for optimal discovery.",
+      "Use line breaks and emojis strategically to improve caption scannability.",
+      "Stories: Use interactive stickers on at least 1 in every 3 stories."
+    ]
+  },
+  "strategy": {
+    "brand_name": "Aura Matcha",
+    "objective": "engagement",
+    "content_pillars": [
+      "Morning Rituals",
+      "L-Theanine Science",
+      "Single-Origin Craft"
+    ],
+    "format_mix_percentage": {
+      "carousel": 50,
+      "static_post": 20,
+      "story_sequence": 30
+    },
+    "content_ideas": [
+      {
+        "title": "The Truth About Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+        "format": "static_post",
+        "content_pillar": "Authority",
+        "objective": "engagement",
+        "hook": "Unpopular opinion about Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+        "core_idea": "Bold contrarian statement with supporting data",
+        "cta": "Agree or disagree? Drop your take below \ud83d\udc47",
+        "visual_direction": "Single bold graphic with headline and stat",
+        "caption_direction": "Expand on the contrarian take, invite discussion"
+      }
+    ],
+    "strategic_recommendations": [
+      "Lead with educational carousels \u2014 highest saves and shares on IG.",
+      "Use interactive story stickers (polls, questions) at least 2x per week.",
+      "Maintain visual consistency with brand colors across all formats.",
+      "Post 3-4 times per week for optimal algorithm performance.",
+      "Use a mix of 3 content pillars to avoid content fatigue."
+    ],
+    "target_audience": "Mindful professionals, biohackers, aesthetic coffee alternatives seekers",
+    "content_angle": "Framework-driven educational content about Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+    "tone_and_style": "Serene, minimalist, elevated, sensory-rich",
+    "posting_frequency": "4 posts per week",
+    "best_posting_times": [
+      "Tuesday 9AM",
+      "Thursday 12PM",
+      "Saturday 10AM"
+    ]
+  },
+  "hooks": [
+    {
+      "style": "Curiosity",
+      "hook_text": "What top 1% Mindful professionals, biohackers, aesthetic coffee alternatives seekers know about Why L-Theanine + Caffeine Beats Coffee Every Single Morning (that nobody talks about)",
+      "rationale": "Curiosity gap + exclusivity drives saves and shares",
+      "angle": "Mystery / insider knowledge"
+    },
+    {
+      "style": "Contrarian",
+      "hook_text": "Stop following Why L-Theanine + Caffeine Beats Coffee Every Single Morning advice from people who've never done it",
+      "rationale": "Pattern interrupt challenges conventional wisdom",
+      "angle": "Bold contrarian statement"
+    },
+    {
+      "style": "Metric",
+      "hook_text": "We tested Why L-Theanine + Caffeine Beats Coffee Every Single Morning for 90 days. Here are the real numbers.",
+      "rationale": "Specific data and timeframes build credibility",
+      "angle": "Data-backed proof"
+    }
+  ],
+  "captions": [
+    {
+      "version": "v1",
+      "caption_text": "90% of Mindful professionals, biohackers, aesthetic coffee alternatives seekers get Why L-Theanine + Caffeine Beats Coffee Every Single Morning completely wrong.\n\nMost people overcomplicate Why L-Theanine + Caffeine Beats Coffee Every Single Morning.\n\nThe truth is simpler than you think.\n\nThe top performers share one thing in common: they build repeatable systems.\n\n\ud83d\udca1 Save this post for later\n\ud83d\udd01 Share with someone who needs this\n\ud83d\udcac DM us 'AURA' for the free guide\n\n.\n.\n.\n#AuraMatcha #WhyL-Theanine+CaffeineBeatsCoffeeEverySingleMorning #ContentStrategy #SocialMediaMarketing #InstagramGrowth #DigitalMarketing #ContentCreation #BusinessTips #MarketingStrategy #GrowthHacking #Entrepreneurship #LeadershipDevelopment",
+      "hashtags": [
+        "#AuraMatcha",
+        "#WhyL-Theanine+CaffeineBeatsCoffeeEverySingleMorning",
+        "#ContentStrategy",
+        "#SocialMediaMarketing",
+        "#InstagramGrowth",
+        "#DigitalMarketing",
+        "#ContentCreation",
+        "#BusinessTips",
+        "#MarketingStrategy",
+        "#GrowthHacking",
+        "#Entrepreneurship",
+        "#LeadershipDevelopment"
+      ]
+    }
+  ],
+  "carousel": null,
+  "static_post": {
+    "concept": "Bold authority statement about Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+    "category": "Authority",
+    "headline": "The Uncomfortable Truth About Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+    "supporting_copy": "Most Mindful professionals, biohackers, aesthetic coffee alternatives seekers overcomplicate this. Here's the simple truth that top performers already know.",
+    "cta": "Double tap if you agree. DM 'AURA' for the full breakdown \u2197",
+    "caption": "90% of Mindful professionals, biohackers, aesthetic coffee alternatives seekers get Why L-Theanine + Caffeine Beats Coffee Every Single Morning completely wrong.\n\nMost people overcomplicate Why L-Theanine + Caffeine Beats Coffee Every Single Morning.\n\nThe truth is simpler than you think.\n\nThe top performers share one thing in common: they build repeatable systems.\n\n\ud83d\udca1 Save this post for later\n\ud83d\udd01 Share with someone who needs this\n\ud83d\udcac DM us 'AURA' for the free guide\n\n.\n.\n.\n#AuraMatcha #WhyL-Theanine+CaffeineBeatsCoffeeEverySingleMorning #ContentStrategy #SocialMediaMarketing #InstagramGrowth #DigitalMarketing #ContentCreation #BusinessTips #MarketingStrategy #GrowthHacking #Entrepreneurship #LeadershipDevelopment",
+    "visual_direction": "Bold single graphic with headline and CTA",
+    "graphic_asset_url": "https://assets.instagram.example.com/aura_matcha/static_post.svg",
+    "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"static_bg\" x1=\"0\" y1=\"0\" x2=\"0.5\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#14281D\"/>\n      <stop offset=\"50%\" stop-color=\"#14281D\"/>\n      <stop offset=\"100%\" stop-color=\"#D4A37315\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#static_bg)\" rx=\"0\"/>\n\n  <!-- Category badge -->\n  <rect x=\"420\" y=\"200\" width=\"166\" height=\"36\" rx=\"18\"\n        fill=\"#A3B18A22\" stroke=\"#A3B18A44\" stroke-width=\"1\"/>\n  <text x=\"503\" y=\"224\" font-family=\"Inter, Arial, sans-serif\"\n        font-size=\"14\" fill=\"#A3B18A\" font-weight=\"600\" text-anchor=\"middle\"\n        letter-spacing=\"1.5\">AUTHORITY</text>\n\n  <!-- Decorative accent -->\n  <rect x=\"490\" y=\"290\" width=\"100\" height=\"4\" rx=\"2\" fill=\"#A3B18A\"/>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"400\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"54\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">The Uncomfortable Truth</tspan><tspan x=\"540\" dy=\"64\">About Why L-Theanine +</tspan><tspan x=\"540\" dy=\"64\">Caffeine Beats Coffee</tspan>\n  </text>\n\n  <!-- Supporting copy -->\n  <text x=\"540\" y=\"620\" font-family=\"Inter, Arial, sans-serif\" font-size=\"24\"\n        fill=\"white\" opacity=\"0.75\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Most Mindful professionals, biohackers,</tspan><tspan x=\"540\" dy=\"38\">aesthetic coffee alternatives seekers</tspan><tspan x=\"540\" dy=\"38\">overcomplicate this. Here&#x27;s the simple</tspan><tspan x=\"540\" dy=\"38\">truth that top performers already know.</tspan>\n  </text>\n\n  <!-- CTA -->\n  <rect x=\"340\" y=\"830\" width=\"400\" height=\"56\" rx=\"28\"\n        fill=\"#A3B18A\" opacity=\"0.9\"/>\n  <text x=\"540\" y=\"865\" font-family=\"Inter, Arial, sans-serif\" font-size=\"20\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">\n    Get The Guide \u2192\n  </text>\n\n  <!-- Brand -->\n  <text x=\"540\" y=\"980\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#A3B18A55\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    Aura Matcha\n  </text>\n\n  <!-- Corner accents -->\n  <rect x=\"60\" y=\"60\" width=\"40\" height=\"3\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"60\" y=\"60\" width=\"3\" height=\"40\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"980\" y=\"1017\" width=\"40\" height=\"3\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"1017\" y=\"980\" width=\"3\" height=\"40\" rx=\"1.5\" fill=\"#D4A37333\"/>\n</svg>"
+  },
+  "story_sequence": null,
+  "calendar": null,
+  "creative": {
+    "required": true,
+    "assets": [
+      {
+        "asset_id": "static_post_graphic",
+        "format": "static_post",
+        "prompt": "Bold single graphic with headline and CTA",
+        "description": "The Uncomfortable Truth About Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/aura_matcha/static_post.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"static_bg\" x1=\"0\" y1=\"0\" x2=\"0.5\" y2=\"1\">\n      <stop offset=\"0%\" stop-color=\"#14281D\"/>\n      <stop offset=\"50%\" stop-color=\"#14281D\"/>\n      <stop offset=\"100%\" stop-color=\"#D4A37315\"/>\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#static_bg)\" rx=\"0\"/>\n\n  <!-- Category badge -->\n  <rect x=\"420\" y=\"200\" width=\"166\" height=\"36\" rx=\"18\"\n        fill=\"#A3B18A22\" stroke=\"#A3B18A44\" stroke-width=\"1\"/>\n  <text x=\"503\" y=\"224\" font-family=\"Inter, Arial, sans-serif\"\n        font-size=\"14\" fill=\"#A3B18A\" font-weight=\"600\" text-anchor=\"middle\"\n        letter-spacing=\"1.5\">AUTHORITY</text>\n\n  <!-- Decorative accent -->\n  <rect x=\"490\" y=\"290\" width=\"100\" height=\"4\" rx=\"2\" fill=\"#A3B18A\"/>\n\n  <!-- Headline -->\n  <text x=\"540\" y=\"400\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"54\"\n        fill=\"white\" font-weight=\"800\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">The Uncomfortable Truth</tspan><tspan x=\"540\" dy=\"64\">About Why L-Theanine +</tspan><tspan x=\"540\" dy=\"64\">Caffeine Beats Coffee</tspan>\n  </text>\n\n  <!-- Supporting copy -->\n  <text x=\"540\" y=\"620\" font-family=\"Inter, Arial, sans-serif\" font-size=\"24\"\n        fill=\"white\" opacity=\"0.75\" text-anchor=\"middle\">\n    <tspan x=\"540\" dy=\"0\">Most Mindful professionals, biohackers,</tspan><tspan x=\"540\" dy=\"38\">aesthetic coffee alternatives seekers</tspan><tspan x=\"540\" dy=\"38\">overcomplicate this. Here&#x27;s the simple</tspan><tspan x=\"540\" dy=\"38\">truth that top performers already know.</tspan>\n  </text>\n\n  <!-- CTA -->\n  <rect x=\"340\" y=\"830\" width=\"400\" height=\"56\" rx=\"28\"\n        fill=\"#A3B18A\" opacity=\"0.9\"/>\n  <text x=\"540\" y=\"865\" font-family=\"Inter, Arial, sans-serif\" font-size=\"20\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\">\n    Get The Guide \u2192\n  </text>\n\n  <!-- Brand -->\n  <text x=\"540\" y=\"980\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#A3B18A55\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    Aura Matcha\n  </text>\n\n  <!-- Corner accents -->\n  <rect x=\"60\" y=\"60\" width=\"40\" height=\"3\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"60\" y=\"60\" width=\"3\" height=\"40\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"980\" y=\"1017\" width=\"40\" height=\"3\" rx=\"1.5\" fill=\"#D4A37333\"/>\n  <rect x=\"1017\" y=\"980\" width=\"3\" height=\"40\" rx=\"1.5\" fill=\"#D4A37333\"/>\n</svg>"
+      }
+    ]
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "static_v1"
+      },
+      {
+        "version": "static_post_v2"
+      },
+      {
+        "version": "final_polished"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 3
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

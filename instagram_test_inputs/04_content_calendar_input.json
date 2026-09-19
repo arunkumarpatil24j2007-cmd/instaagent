@@ -1,0 +1,42 @@
+{
+  "brand": {
+    "brand_name": "KiteMetrics",
+    "industry": "B2B SaaS / Product Analytics",
+    "location": "Austin, TX",
+    "target_audience": "Growth PMs, Startup Founders, Head of Growth",
+    "buyer_persona": "Tech operators looking to reduce churn and visualize user onboarding dropoffs in real time",
+    "products_services": ["User Session Replays", "Funnel Analytics", "Churn Prediction Engine"],
+    "offers": ["14-day free pilot with white-glove onboarding"],
+    "positioning": "Product analytics without the data engineering headache",
+    "brand_voice": "Data-informed, provocative, clear, high-utility",
+    "tone": "Direct and insightful",
+    "colors": ["#022C22", "#10B981", "#34D399"],
+    "typography": {
+      "heading": "Outfit",
+      "body": "Inter"
+    },
+    "competitors": ["Mixpanel", "Amplitude", "PostHog"],
+    "content_pillars": [
+      "SaaS Metrics Benchmarks",
+      "Growth Teardowns",
+      "Feature Launch Spotlights",
+      "Community Questions"
+    ],
+    "business_goals": ["Demo bookings", "Newsletter subscribers"],
+    "marketing_objectives": ["Consistent organic weekly reach"],
+    "account_handle": "@kitemetrics",
+    "website": "https://kitemetrics.io"
+  },
+  "task": {
+    "type": "create_content_calendar",
+    "topic": "SaaS Product Onboarding & Retention Masterclass",
+    "objective": "lead_generation",
+    "target_format": "content_calendar"
+  },
+  "constraints": {
+    "content_type": "content_calendar",
+    "language": "English",
+    "calendar_duration": "2_weeks",
+    "posts_per_week": 4
+  }
+}

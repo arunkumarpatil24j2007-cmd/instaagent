@@ -1,0 +1,450 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "carousel",
+  "brand_summary": {
+    "brand_name": "NexusAI",
+    "industry": "Artificial Intelligence / Developer Tools",
+    "target_audience": "Software engineers, tech founders, AI researchers",
+    "account_handle": "@nexusai_tech",
+    "brand_voice": "Authoritative, technical, crisp, highly pragmatic",
+    "colors": [
+      "#0F172A",
+      "#6366F1",
+      "#EC4899"
+    ]
+  },
+  "research": {
+    "brand": {
+      "positioning": "The enterprise-grade backbone for production multi-agent systems",
+      "products_services": [
+        "Agent orchestration framework",
+        "Autonomous tool router",
+        "Real-time evaluation engine"
+      ],
+      "target_audience": "Software engineers, tech founders, AI researchers",
+      "industry": "Artificial Intelligence / Developer Tools",
+      "differentiators": [
+        "Unique market position",
+        "Strong brand identity",
+        "Domain expertise"
+      ],
+      "brand_personality": "Authoritative, technical, crisp, highly pragmatic",
+      "tone_of_voice": "Confident and visionary without hype",
+      "visual_style": "Clean modern design with bold typography and brand color consistency",
+      "common_content_themes": [
+        "Multi-Agent System Architecture",
+        "Production LLM Reliability & Benchmarks",
+        "Engineering Deep Dives"
+      ],
+      "cta_patterns": [
+        "DM for details",
+        "Save this post",
+        "Link in bio",
+        "Comment below"
+      ],
+      "hashtag_strategy": [
+        "#NexusAI"
+      ],
+      "posting_frequency": "3-4 posts per week",
+      "top_performing_formats": [
+        "carousel",
+        "story_sequence"
+      ],
+      "existing_content_analysis": "Active posting with room for optimization."
+    },
+    "competitors": [
+      {
+        "name": "LangChain",
+        "handle": "@langchain",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "CrewAI",
+        "handle": "@crewai",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      },
+      {
+        "name": "AutoGPT",
+        "handle": "@autogpt",
+        "strengths": [
+          "Consistent visual branding",
+          "Regular carousel posts"
+        ],
+        "content_themes": [
+          "Industry insights",
+          "Product showcases",
+          "Behind-the-scenes"
+        ],
+        "formats_used": [
+          "carousel",
+          "static_post",
+          "story"
+        ],
+        "hook_patterns": [
+          "Bold metric hooks",
+          "Question hooks"
+        ],
+        "cta_patterns": [
+          "DM for details",
+          "Link in bio"
+        ],
+        "posting_frequency": "4-5 posts per week",
+        "visual_patterns": [
+          "Dark theme",
+          "Clean typography",
+          "Brand color consistency"
+        ],
+        "content_gaps": [
+          "Deep educational content",
+          "Framework breakdowns",
+          "Interactive stories"
+        ]
+      }
+    ],
+    "industry_trends": [
+      {
+        "topic": "Artificial Intelligence / Developer Tools Content Trends on Instagram",
+        "relevance_score": 9.2,
+        "key_takeaway": "Educational carousels generate 3x more saves than static posts.",
+        "content_opportunity": "Framework-based carousel series with actionable takeaways."
+      },
+      {
+        "topic": "Interactive Stories for Lead Generation",
+        "relevance_score": 8.5,
+        "key_takeaway": "Stories with polls and questions increase completion rate by 40%.",
+        "content_opportunity": "Weekly interactive story sequences with CTA stickers."
+      }
+    ],
+    "audience_pain_points": [
+      "Struggling to stand out in Artificial Intelligence / Developer Tools",
+      "Lack of a clear content strategy framework",
+      "Difficulty measuring ROI from social content",
+      "Inconsistent posting schedule"
+    ],
+    "content_opportunities": [
+      "Educational carousel series",
+      "Interactive story sequences with polls",
+      "Bold single-graphic authority posts",
+      "Behind-the-scenes brand stories"
+    ],
+    "platform_standards_applied": [
+      "Use a high-impact hook in Slide 1 / first line (before fold).",
+      "Keep carousel slide copy to 20-30 words max per slide for readability.",
+      "Use bold typography hierarchy: Headline \u2192 Subhead \u2192 Body \u2192 CTA.",
+      "Include brand colors and logo on every carousel slide for consistency.",
+      "Use single-column layouts for mobile-first readability.",
+      "Place a clear CTA on the final slide (carousel) or end of caption.",
+      "Caption: Start with the hook, break into short paragraphs, end with CTA.",
+      "Hashtags: Mix 5 broad + 5 niche + 5 branded for optimal discovery.",
+      "Use line breaks and emojis strategically to improve caption scannability.",
+      "Stories: Use interactive stickers on at least 1 in every 3 stories."
+    ]
+  },
+  "strategy": {
+    "brand_name": "NexusAI",
+    "objective": "authority",
+    "content_pillars": [
+      "Multi-Agent System Architecture",
+      "Production LLM Reliability & Benchmarks",
+      "Engineering Deep Dives"
+    ],
+    "format_mix_percentage": {
+      "carousel": 50,
+      "static_post": 20,
+      "story_sequence": 30
+    },
+    "content_ideas": [
+      {
+        "title": "The Framework for 5 Critical Multi-Agent Orchestration Patterns",
+        "format": "carousel",
+        "content_pillar": "Educational",
+        "objective": "authority",
+        "hook": "90% of Software engineers, tech founders, AI researchers get this wrong.",
+        "core_idea": "Step-by-step breakdown of 5 Critical Multi-Agent Orchestration Patterns",
+        "cta": "Save this post and DM us 'GUIDE' for the free resource.",
+        "visual_direction": "Bold slide 1 hook, clean steps, branded CTA slide",
+        "caption_direction": "Expand on the framework, add personal insight, hashtags"
+      }
+    ],
+    "strategic_recommendations": [
+      "Lead with educational carousels \u2014 highest saves and shares on IG.",
+      "Use interactive story stickers (polls, questions) at least 2x per week.",
+      "Maintain visual consistency with brand colors across all formats.",
+      "Post 3-4 times per week for optimal algorithm performance.",
+      "Use a mix of 3 content pillars to avoid content fatigue."
+    ],
+    "target_audience": "Software engineers, tech founders, AI researchers",
+    "content_angle": "Framework-driven educational content about 5 Critical Multi-Agent Orchestration Patterns",
+    "tone_and_style": "Authoritative, technical, crisp, highly pragmatic",
+    "posting_frequency": "4 posts per week",
+    "best_posting_times": [
+      "Tuesday 9AM",
+      "Thursday 12PM",
+      "Saturday 10AM"
+    ]
+  },
+  "hooks": [
+    {
+      "style": "Curiosity",
+      "hook_text": "What top 1% Software engineers, tech founders, AI researchers know about 5 Critical Multi-Agent Orchestration Patterns (that nobody talks about)",
+      "rationale": "Curiosity gap + exclusivity drives saves and shares",
+      "angle": "Mystery / insider knowledge"
+    },
+    {
+      "style": "Contrarian",
+      "hook_text": "Stop following 5 Critical Multi-Agent Orchestration Patterns advice from people who've never done it",
+      "rationale": "Pattern interrupt challenges conventional wisdom",
+      "angle": "Bold contrarian statement"
+    },
+    {
+      "style": "Metric",
+      "hook_text": "We tested 5 Critical Multi-Agent Orchestration Patterns for 90 days. Here are the real numbers.",
+      "rationale": "Specific data and timeframes build credibility",
+      "angle": "Data-backed proof"
+    }
+  ],
+  "captions": [
+    {
+      "version": "v1",
+      "caption_text": "90% of Software engineers, tech founders, AI researchers get 5 Critical Multi-Agent Orchestration Patterns completely wrong.\n\nHere's what actually works:\n\nWe've spent months analyzing what top performers do differently.\n\nThe answer? They focus on frameworks, not tactics.\n\nSwipe through to see the exact 3-step approach \u27a1\ufe0f\n\n\ud83d\udca1 Save this post for later\n\ud83d\udd01 Share with someone who needs this\n\ud83d\udcac DM us 'NEXUSAI' for the free guide\n\n.\n.\n.\n#NexusAI #5CriticalMulti-AgentOrchestrationPatterns #ContentStrategy #SocialMediaMarketing #InstagramGrowth #DigitalMarketing #ContentCreation #BusinessTips #MarketingStrategy #GrowthHacking #Entrepreneurship #LeadershipDevelopment",
+      "hashtags": [
+        "#NexusAI",
+        "#5CriticalMulti-AgentOrchestrationPatterns",
+        "#ContentStrategy",
+        "#SocialMediaMarketing",
+        "#InstagramGrowth",
+        "#DigitalMarketing",
+        "#ContentCreation",
+        "#BusinessTips",
+        "#MarketingStrategy",
+        "#GrowthHacking",
+        "#Entrepreneurship",
+        "#LeadershipDevelopment"
+      ]
+    }
+  ],
+  "carousel": {
+    "title": "5 Critical Multi-Agent Orchestration Patterns \u2014 Complete Framework",
+    "objective": "authority",
+    "audience": "Software engineers, tech founders, AI researchers",
+    "hook": "The counterintuitive strategy top 1% brands use (that 90% ignore). Here's why most Software engineers, tech founders, AI researchers get this wrong.",
+    "total_slides": 5,
+    "slides": [
+      {
+        "slide_number": 1,
+        "slide_title": "Stop Doing This Wrong",
+        "copy": "The counterintuitive strategy top 1% brands use (that 90% ignore). Here's why most Software engineers, tech founders, AI researchers get this wrong.",
+        "visual_direction": "Bold hook with contrarian stat, gradient background",
+        "visual_element": "Bold hook with contrarian stat, gradient background",
+        "graphic_asset_url": "https://assets.instagram.example.com/nexusai/carousel/slide_1.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_1\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#EC489922\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172A\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_1\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_1)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    01 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_1)\">\n    Stop Doing This Wrong\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">The counterintuitive strategy top 1%</tspan><tspan x=\"540\" dy=\"42\">brands use (that 90% ignore). Here&#x27;s why</tspan><tspan x=\"540\" dy=\"42\">most Software engineers, tech founders,</tspan><tspan x=\"540\" dy=\"42\">AI researchers get this wrong.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "slide_number": 2,
+        "slide_title": "The Real Problem",
+        "copy": "Most Artificial Intelligence / Developer Tools strategies fail because they focus on volume over value. Quality beats quantity.",
+        "visual_direction": "Problem illustration with red accent highlights",
+        "visual_element": "Problem illustration with red accent highlights",
+        "graphic_asset_url": "https://assets.instagram.example.com/nexusai/carousel/slide_2.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_2\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_2\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_2)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    02 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_2)\">\n    The Real Problem\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Most Artificial Intelligence / Developer</tspan><tspan x=\"540\" dy=\"42\">Tools strategies fail because they focus</tspan><tspan x=\"540\" dy=\"42\">on volume over value. Quality beats</tspan><tspan x=\"540\" dy=\"42\">quantity.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "slide_number": 3,
+        "slide_title": "Step 1: Foundation",
+        "copy": "Start with a clear framework. Define your core pillars before creating any content.",
+        "visual_direction": "Clean step graphic with numbered badge",
+        "visual_element": "Clean step graphic with numbered badge",
+        "graphic_asset_url": "https://assets.instagram.example.com/nexusai/carousel/slide_3.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_3\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_3)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    03 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_3)\">\n    Step 1: Foundation\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Start with a clear framework. Define</tspan><tspan x=\"540\" dy=\"42\">your core pillars before creating any</tspan><tspan x=\"540\" dy=\"42\">content.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "slide_number": 4,
+        "slide_title": "Step 2: Consistency",
+        "copy": "Build a repeatable system. Batch create, schedule ahead, and maintain visual consistency.",
+        "visual_direction": "System/process illustration with blue accents",
+        "visual_element": "System/process illustration with blue accents",
+        "graphic_asset_url": "https://assets.instagram.example.com/nexusai/carousel/slide_4.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_4\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_4\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_4)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    04 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_4)\">\n    Step 2: Consistency\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Build a repeatable system. Batch create,</tspan><tspan x=\"540\" dy=\"42\">schedule ahead, and maintain visual</tspan><tspan x=\"540\" dy=\"42\">consistency.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "slide_number": 5,
+        "slide_title": "Step 3: Optimize",
+        "copy": "Save this post and DM us 'NEXUSAI' for the free strategy blueprint \u2197",
+        "visual_direction": "Growth chart with upward trend line",
+        "visual_element": "Growth chart with upward trend line",
+        "graphic_asset_url": "https://assets.instagram.example.com/nexusai/carousel/slide_5.svg",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_5\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#6366F133\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172A\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_5\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_5)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    05 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_5)\">\n    Step 3: Optimize\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Save this post and DM us &#x27;NEXUSAI&#x27; for</tspan><tspan x=\"540\" dy=\"42\">the free strategy blueprint \u2197</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      }
+    ],
+    "cta": "Track what works. Double down on your top-performing formats and topics weekly.",
+    "caption": "90% of Software engineers, tech founders, AI researchers get 5 Critical Multi-Agent Orchestration Patterns completely wrong.\n\nHere's what actually works:\n\nWe've spent months analyzing what top performers do differently.\n\nThe answer? They focus on frameworks, not tactics.\n\nSwipe through to see the exact 3-step approach \u27a1\ufe0f\n\n\ud83d\udca1 Save this post for later\n\ud83d\udd01 Share with someone who needs this\n\ud83d\udcac DM us 'NEXUSAI' for the free guide\n\n.\n.\n.\n#NexusAI #5CriticalMulti-AgentOrchestrationPatterns #ContentStrategy #SocialMediaMarketing #InstagramGrowth #DigitalMarketing #ContentCreation #BusinessTips #MarketingStrategy #GrowthHacking #Entrepreneurship #LeadershipDevelopment",
+    "brand_styling": {
+      "colors": [
+        "#0F172A",
+        "#6366F1",
+        "#EC4899"
+      ],
+      "typography": {
+        "heading": "Outfit",
+        "body": "Inter"
+      },
+      "brand_name": "NexusAI"
+    },
+    "design_instructions": "1080\u00d71080, dark theme, bold typography, brand color accents, progress dots"
+  },
+  "static_post": null,
+  "story_sequence": null,
+  "calendar": null,
+  "creative": {
+    "required": true,
+    "assets": [
+      {
+        "asset_id": "carousel_slide_1",
+        "format": "carousel_slide",
+        "prompt": "Bold hook with contrarian stat, gradient background",
+        "description": "Slide 1: Stop Doing This Wrong",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/nexusai/carousel/slide_1.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_1\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#EC489922\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172A\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_1\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_1)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    01 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_1)\">\n    Stop Doing This Wrong\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">The counterintuitive strategy top 1%</tspan><tspan x=\"540\" dy=\"42\">brands use (that 90% ignore). Here&#x27;s why</tspan><tspan x=\"540\" dy=\"42\">most Software engineers, tech founders,</tspan><tspan x=\"540\" dy=\"42\">AI researchers get this wrong.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_2",
+        "format": "carousel_slide",
+        "prompt": "Problem illustration with red accent highlights",
+        "description": "Slide 2: The Real Problem",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/nexusai/carousel/slide_2.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_2\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_2\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_2)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    02 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_2)\">\n    The Real Problem\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Most Artificial Intelligence / Developer</tspan><tspan x=\"540\" dy=\"42\">Tools strategies fail because they focus</tspan><tspan x=\"540\" dy=\"42\">on volume over value. Quality beats</tspan><tspan x=\"540\" dy=\"42\">quantity.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_3",
+        "format": "carousel_slide",
+        "prompt": "Clean step graphic with numbered badge",
+        "description": "Slide 3: Step 1: Foundation",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/nexusai/carousel/slide_3.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_3\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_3\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_3)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    03 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_3)\">\n    Step 1: Foundation\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Start with a clear framework. Define</tspan><tspan x=\"540\" dy=\"42\">your core pillars before creating any</tspan><tspan x=\"540\" dy=\"42\">content.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_4",
+        "format": "carousel_slide",
+        "prompt": "System/process illustration with blue accents",
+        "description": "Slide 4: Step 2: Consistency",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/nexusai/carousel/slide_4.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_4\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#0F172A\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172Aee\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_4\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_4)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    04 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_4)\">\n    Step 2: Consistency\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Build a repeatable system. Batch create,</tspan><tspan x=\"540\" dy=\"42\">schedule ahead, and maintain visual</tspan><tspan x=\"540\" dy=\"42\">consistency.</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_5",
+        "format": "carousel_slide",
+        "prompt": "Growth chart with upward trend line",
+        "description": "Slide 5: Step 3: Optimize",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/nexusai/carousel/slide_5.svg",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_5\" x1=\"0\" y1=\"0\" x2=\"1\" y2=\"1\">\n      \n            <stop offset=\"0%\" stop-color=\"#6366F133\"/>\n            <stop offset=\"100%\" stop-color=\"#0F172A\"/>\n        \n    </linearGradient>\n    <filter id=\"glow_5\">\n      <feGaussianBlur stdDeviation=\"3\" result=\"blur\"/>\n      <feMerge><feMergeNode in=\"blur\"/><feMergeNode in=\"SourceGraphic\"/></feMerge>\n    </filter>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_5)\" rx=\"0\"/>\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"1080\" fill=\"#0F172A\" rx=\"0\"/>\n\n  <!-- Decorative accent line -->\n  <rect x=\"80\" y=\"120\" width=\"60\" height=\"4\" rx=\"2\" fill=\"#6366F1\"/>\n\n  <!-- Slide number badge -->\n  <text x=\"80\" y=\"170\" font-family=\"Inter, Arial, sans-serif\" font-size=\"18\"\n        fill=\"#6366F188\" font-weight=\"500\" letter-spacing=\"2\">\n    05 / 05\n  </text>\n\n  <!-- Title -->\n  <text x=\"540\" y=\"380\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"52\"\n        fill=\"white\" font-weight=\"700\" text-anchor=\"middle\" filter=\"url(#glow_5)\">\n    Step 3: Optimize\n  </text>\n\n  <!-- Copy -->\n  <text x=\"540\" y=\"560\" font-family=\"Inter, Arial, sans-serif\" font-size=\"28\"\n        fill=\"white\" opacity=\"0.85\" text-anchor=\"middle\" line-height=\"42\">\n    <tspan x=\"540\" dy=\"0\">Save this post and DM us &#x27;NEXUSAI&#x27; for</tspan><tspan x=\"540\" dy=\"42\">the free strategy blueprint \u2197</tspan>\n  </text>\n\n  <!-- Brand watermark -->\n  <text x=\"540\" y=\"960\" font-family=\"Outfit, Arial, sans-serif\" font-size=\"16\"\n        fill=\"#6366F166\" font-weight=\"600\" text-anchor=\"middle\" letter-spacing=\"3\">\n    NexusAI\n  </text>\n\n  <!-- Progress dots -->\n  <circle cx=\"492\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"516\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"540\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"564\" cy=\"1020\" r=\"6\" fill=\"#6366F144\"/><circle cx=\"588\" cy=\"1020\" r=\"6\" fill=\"#6366F1\"/>\n\n  <!-- Accent corner decoration -->\n  <rect x=\"920\" y=\"80\" width=\"80\" height=\"3\" rx=\"1.5\" fill=\"#EC489944\"/>\n  <rect x=\"997\" y=\"80\" width=\"3\" height=\"80\" rx=\"1.5\" fill=\"#EC489944\"/>\n</svg>"
+      }
+    ]
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "carousel_v1"
+      },
+      {
+        "version": "carousel_v2"
+      },
+      {
+        "version": "final_polished"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 3
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

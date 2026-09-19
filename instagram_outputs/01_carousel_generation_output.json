@@ -1,0 +1,272 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "carousel",
+  "brand_summary": {
+    "brand_name": "Nova SaaS Systems",
+    "industry": "B2B SaaS & Automation",
+    "target_audience": "Founders, CTOs, and Product Managers",
+    "positioning": "",
+    "account_handle": "@novasaas"
+  },
+  "research": null,
+  "strategy": {
+    "brand_name": "Nova SaaS Systems",
+    "objective": "lead_generation",
+    "content_pillars": [
+      "Educational",
+      "Authority",
+      "Social Proof",
+      "Product"
+    ],
+    "format_mix_percentage": {
+      "carousel": 50,
+      "static_post": 20,
+      "story_sequence": 30
+    },
+    "content_ideas": [
+      {
+        "title": "5 Critical B2B SaaS & Automation Bottlenecks & How to Fix Them",
+        "format": "Carousel",
+        "content_pillar": "Educational",
+        "objective": "lead_generation",
+        "hook": "If your B2B SaaS & Automation growth hit a plateau, check these 5 bottlenecks.",
+        "core_idea": "Step-by-step diagnostic framework for operational and marketing bottlenecks.",
+        "cta": "Save this carousel and tag a team member who needs to see this.",
+        "visual_direction": "Clean dark mode slides with bright accent callouts for each bottleneck.",
+        "caption_direction": "Conversational, direct, breakdown of each bottleneck with actionable solutions."
+      },
+      {
+        "title": "Why Standard Industry Strategies Fail in 2026",
+        "format": "Static Post",
+        "content_pillar": "Authority",
+        "objective": "authority",
+        "hook": "The strategy everyone recommended in 2024 is now quietly hurting your conversions.",
+        "core_idea": "Contrarian perspective positioning the brand as an innovative industry leader.",
+        "cta": "Drop a comment below: Which outdated strategy are you ready to stop using?",
+        "visual_direction": "Single high-impact stat graphic with bold header typography.",
+        "caption_direction": "Short, punchy paragraphs explaining the market shift."
+      },
+      {
+        "title": "Client Case Study: 0 to 10k Qualified Leads",
+        "format": "Carousel",
+        "content_pillar": "Social Proof",
+        "objective": "sales",
+        "hook": "How we helped a client generate 10,000 qualified leads without increasing ad spend.",
+        "core_idea": "Transparent teardown of campaign architecture and results.",
+        "cta": "Send us a DM with 'GROWTH' to see if your business qualifies for a strategy audit.",
+        "visual_direction": "Data graphs, screenshots, and visual metric callouts.",
+        "caption_direction": "Proof-first breakdown of problem, intervention, and results."
+      },
+      {
+        "title": "Behind the Scenes: How We Build High-Performing Content",
+        "format": "Story Sequence",
+        "content_pillar": "Behind the Scenes",
+        "objective": "engagement",
+        "hook": "Ever wondered how top accounts plan 30 days of content in 2 hours?",
+        "core_idea": "4-part story walkthrough showing internal SOPs and tool stack.",
+        "cta": "Tap the link in our bio to grab our free planning template.",
+        "visual_direction": "Vertical 9:16 slides with interactive poll and question stickers.",
+        "caption_direction": "Casual, authentic, interactive."
+      }
+    ],
+    "strategic_recommendations": [
+      "Maintain 3-4 posts per week, balancing carousels for reach/saves and story sequences for conversions.",
+      "Focus Slide 1 design on high readability (large headline, high-contrast background).",
+      "Include direct lead-magnet CTAs in at least 30% of story sequences."
+    ]
+  },
+  "hooks": [
+    {
+      "style": "Curiosity",
+      "hook_text": "The simple reason 90% of Founders, CTOs, and Product Managers struggle with 5 Bottlenecks Killing Your B2B SaaS Growth (and what top 1% do differently)",
+      "rationale": "Curiosity hooks perform exceptionally well for B2B SaaS & Automation by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding 5 Bottlenecks Killing Your B2B SaaS Growth in practical, zero-fluff value for Founders, CTOs, and Product Managers."
+    },
+    {
+      "style": "Contrarian",
+      "hook_text": "Stop trying to fix 5 Bottlenecks Killing Your B2B SaaS Growth using standard advice. Here is why it backfires.",
+      "rationale": "Contrarian hooks perform exceptionally well for B2B SaaS & Automation by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding 5 Bottlenecks Killing Your B2B SaaS Growth in practical, zero-fluff value for Founders, CTOs, and Product Managers."
+    },
+    {
+      "style": "Problem",
+      "hook_text": "If 5 Bottlenecks Killing Your B2B SaaS Growth is eating up your time without results, this 3-step fix changes everything.",
+      "rationale": "Problem hooks perform exceptionally well for B2B SaaS & Automation by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding 5 Bottlenecks Killing Your B2B SaaS Growth in practical, zero-fluff value for Founders, CTOs, and Product Managers."
+    }
+  ],
+  "captions": [],
+  "carousel": {
+    "title": "5 Bottlenecks Killing Your B2B SaaS Growth",
+    "objective": "lead_generation",
+    "audience": "Founders, CTOs, and Product Managers",
+    "hook": "5 Bottlenecks Killing Your B2B SaaS Growth",
+    "total_slides": 6,
+    "slides": [
+      {
+        "slide_number": 1,
+        "slide_title": "5 Bottlenecks Killing Your B2B SaaS Growth",
+        "copy": "Swipe left to see the step-by-step breakdown \u2192",
+        "visual_direction": "Bold oversized headline, dark background, prominent swipe indicator arrow.",
+        "visual_element": "Main Headline & Swipe Prompt",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_1.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_1)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"180\" height=\"12\" fill=\"url(#accent_grad_1)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 1 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_1)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">SWIPE TO LEARN \u2192</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">5 Bottlenecks Killing Your B2B SaaS Growth</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Swipe left to see the step-by-step breakdown \u2192</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Main Headline & Swipe Prompt</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "slide_number": 2,
+        "slide_title": "Mistake #1: Generic Content Without Clear Intent",
+        "copy": "Posting without an explicit objective dilutes your brand authority.",
+        "visual_direction": "Comparison card contrasting 'Random Posting' vs 'Strategic Content'.",
+        "visual_element": "Contrast Card",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_2.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_2)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"360\" height=\"12\" fill=\"url(#accent_grad_2)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 2 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_2)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 1 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #1: Generic Content Without Clear Intent</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Posting without an explicit objective dilutes your brand authority.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Contrast Card</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "slide_number": 3,
+        "slide_title": "Mistake #2: Weak First Slide Hooks",
+        "copy": "If Slide 1 does not capture immediate curiosity within 1.5 seconds, viewers scroll past.",
+        "visual_direction": "Eye-tracking heat map graphic highlighting Slide 1 headline.",
+        "visual_element": "Visual Stat Callout",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_3.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_3)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"540\" height=\"12\" fill=\"url(#accent_grad_3)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 3 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_3)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 2 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #2: Weak First Slide Hooks</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">If Slide 1 does not capture immediate curiosity within 1.5 seconds, viewers scro</tspan>\n    <tspan x=\"120\" dy=\"48\">ll past.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Visual Stat Callout</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "slide_number": 4,
+        "slide_title": "Mistake #3: Ignoring Save & Share Intent",
+        "copy": "High engagement accounts structure content around actionable utility that users save.",
+        "visual_direction": "Bookmark icon highlight with 3 save-trigger frameworks.",
+        "visual_element": "Utility Framework Box",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_4.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_4)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"720\" height=\"12\" fill=\"url(#accent_grad_4)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 4 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_4)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 3 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #3: Ignoring Save & Share Intent</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">High engagement accounts structure content around actionable utility that users </tspan>\n    <tspan x=\"120\" dy=\"48\">save.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Utility Framework Box</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "slide_number": 5,
+        "slide_title": "The 3-Step Solution Framework",
+        "copy": "1. Define objective first.\n2. Craft a high-curiosity hook.\n3. End with an explicit lead CTA.",
+        "visual_direction": "Numbered 1-2-3 execution roadmap visual.",
+        "visual_element": "Execution Roadmap",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_5.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_5)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"900\" height=\"12\" fill=\"url(#accent_grad_5)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 5 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_5)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 4 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">The 3-Step Solution Framework</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">1. Define objective first.\n2. Craft a high-curiosity hook.\n3. End with an explic</tspan>\n    <tspan x=\"120\" dy=\"48\">it lead CTA.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Execution Roadmap</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "slide_number": 6,
+        "slide_title": "Actionable Takeaway",
+        "copy": "Audit your last 5 posts today: How many had a clear hook and a save-worthy takeaway?",
+        "visual_direction": "Checklist card with visual checkboxes.",
+        "visual_element": "Checklist Box",
+        "graphic_asset_url": "https://assets.instagram.example.com/carousel_slide_6.png",
+        "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#22C55E\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_6)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"url(#accent_grad_6)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 6 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_6)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">SAVE THIS CAROUSEL \ud83d\udccc</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Actionable Takeaway</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#22C55E\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Audit your last 5 posts today: How many had a clear hook and a save-worthy takea</tspan>\n    <tspan x=\"120\" dy=\"48\">way?</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#22C55E\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Checklist Box</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      }
+    ],
+    "cta": "Save this post and DM us 'BLUEPRINT'",
+    "caption": "5 Bottlenecks Killing Your B2B SaaS Growth\n\nMost people overcomplicate 5 Bottlenecks Killing Your B2B SaaS Growth.\n\nHere is the truth: when you break down 5 Bottlenecks Killing Your B2B SaaS Growth into a clear system, everything gets significantly easier.\n\nSwipe through the slides above to see exact step-by-step instructions.\n\nKey takeaway: 1. Define objective first.\n2. Craft a high-curiosity hook.\n3. End with an explicit lead CTA.\n\nSave this carousel and DM us 'BLUEPRINT' for the full strategy guide.\n\n#5bottleneckskillingyourb2bsaasgrowth #b2bsaas&automation #instagramgrowth #contentstrategy #marketingtips",
+    "brand_styling": {
+      "colors": [
+        "#0F172A",
+        "#38BDF8",
+        "#F43F5E"
+      ],
+      "typography": {
+        "heading": "Outfit",
+        "body": "Inter"
+      }
+    },
+    "design_instructions": "Maintain high contrast, bold 48pt+ mobile headers, clean spacing, and slide-to-slide visual continuity."
+  },
+  "static_post": null,
+  "story_sequence": null,
+  "calendar": null,
+  "creative": {
+    "required": true,
+    "assets": [
+      {
+        "asset_id": "carousel_slide_1",
+        "format": "carousel_slide",
+        "prompt": "5 Bottlenecks Killing Your B2B SaaS Growth",
+        "description": "Bold oversized headline, dark background, prominent swipe indicator arrow.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_1.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_1)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"180\" height=\"12\" fill=\"url(#accent_grad_1)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 1 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_1)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">SWIPE TO LEARN \u2192</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">5 Bottlenecks Killing Your B2B SaaS Growth</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Swipe left to see the step-by-step breakdown \u2192</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Main Headline & Swipe Prompt</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_2",
+        "format": "carousel_slide",
+        "prompt": "Mistake #1: Generic Content Without Clear Intent",
+        "description": "Comparison card contrasting 'Random Posting' vs 'Strategic Content'.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_2.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_2)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"360\" height=\"12\" fill=\"url(#accent_grad_2)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 2 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_2)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 1 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #1: Generic Content Without Clear Intent</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Posting without an explicit objective dilutes your brand authority.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Contrast Card</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_3",
+        "format": "carousel_slide",
+        "prompt": "Mistake #2: Weak First Slide Hooks",
+        "description": "Eye-tracking heat map graphic highlighting Slide 1 headline.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_3.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_3)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"540\" height=\"12\" fill=\"url(#accent_grad_3)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 3 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_3)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 2 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #2: Weak First Slide Hooks</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">If Slide 1 does not capture immediate curiosity within 1.5 seconds, viewers scro</tspan>\n    <tspan x=\"120\" dy=\"48\">ll past.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Visual Stat Callout</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_4",
+        "format": "carousel_slide",
+        "prompt": "Mistake #3: Ignoring Save & Share Intent",
+        "description": "Bookmark icon highlight with 3 save-trigger frameworks.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_4.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_4)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"720\" height=\"12\" fill=\"url(#accent_grad_4)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 4 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_4)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 3 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Mistake #3: Ignoring Save & Share Intent</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">High engagement accounts structure content around actionable utility that users </tspan>\n    <tspan x=\"120\" dy=\"48\">save.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Utility Framework Box</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_5",
+        "format": "carousel_slide",
+        "prompt": "The 3-Step Solution Framework",
+        "description": "Numbered 1-2-3 execution roadmap visual.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_5.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#38BDF8\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_5)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"900\" height=\"12\" fill=\"url(#accent_grad_5)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 5 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_5)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">STEP 4 OF 4</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">The 3-Step Solution Framework</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#38BDF8\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">1. Define objective first.\n2. Craft a high-curiosity hook.\n3. End with an explic</tspan>\n    <tspan x=\"120\" dy=\"48\">it lead CTA.</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#38BDF8\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Execution Roadmap</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      },
+      {
+        "asset_id": "carousel_slide_6",
+        "format": "carousel_slide",
+        "prompt": "Actionable Takeaway",
+        "description": "Checklist card with visual checkboxes.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/carousel_slide_6.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1080\" width=\"1080\" height=\"1080\">\n  <defs>\n    <linearGradient id=\"bg_grad_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#0F172A\" />\n      <stop offset=\"100%\" stop-color=\"#1E293B\" />\n    </linearGradient>\n    <linearGradient id=\"accent_grad_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#38BDF8\" />\n      <stop offset=\"100%\" stop-color=\"#22C55E\" />\n    </linearGradient>\n  </defs>\n\n  <!-- Background -->\n  <rect width=\"1080\" height=\"1080\" fill=\"url(#bg_grad_6)\" />\n  \n  <!-- Slide-to-Slide Continuity Top Progress Bar -->\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"rgba(255,255,255,0.1)\" />\n  <rect x=\"0\" y=\"0\" width=\"1080\" height=\"12\" fill=\"url(#accent_grad_6)\" />\n\n  <!-- Outer Branded Frame -->\n  <rect x=\"40\" y=\"50\" width=\"1000\" height=\"980\" fill=\"none\" stroke=\"rgba(255,255,255,0.12)\" stroke-width=\"3\" rx=\"32\"/>\n  \n  <!-- Header Bar: Slide Number & Badge -->\n  <rect x=\"80\" y=\"90\" width=\"220\" height=\"44\" fill=\"rgba(255,255,255,0.08)\" rx=\"22\"/>\n  <text x=\"190\" y=\"120\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"700\">SLIDE 6 OF 6</text>\n\n  <rect x=\"760\" y=\"90\" width=\"240\" height=\"44\" fill=\"url(#accent_grad_6)\" rx=\"22\"/>\n  <text x=\"880\" y=\"119\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" letter-spacing=\"1\">SAVE THIS CAROUSEL \ud83d\udccc</text>\n\n  <!-- Title / Headline -->\n  <text x=\"80\" y=\"240\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"46\" font-weight=\"900\" width=\"920\">Actionable Takeaway</text>\n  <line x1=\"80\" y1=\"280\" x2=\"280\" y2=\"280\" stroke=\"#22C55E\" stroke-width=\"6\" stroke-linecap=\"round\"/>\n\n  <!-- Content Card Area -->\n  <rect x=\"80\" y=\"320\" width=\"920\" height=\"580\" fill=\"rgba(15, 23, 42, 0.6)\" stroke=\"rgba(255,255,255,0.08)\" stroke-width=\"2\" rx=\"24\"/>\n  \n  <text x=\"120\" y=\"420\" fill=\"#F8FAFC\" font-family=\"sans-serif\" font-size=\"30\" font-weight=\"500\" width=\"840\">\n    <tspan x=\"120\" dy=\"0\">Audit your last 5 posts today: How many had a clear hook and a save-worthy takea</tspan>\n    <tspan x=\"120\" dy=\"48\">way?</tspan>\n    <tspan x=\"120\" dy=\"48\"></tspan>\n  </text>\n\n  <!-- Visual Direction Element Callout -->\n  <rect x=\"120\" y=\"760\" width=\"840\" height=\"100\" fill=\"rgba(255,255,255,0.05)\" border=\"1px stroke rgba(255,255,255,0.1)\" rx=\"16\"/>\n  <text x=\"150\" y=\"820\" fill=\"#22C55E\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">\ud83d\udca1 KEY INSIGHT: Checklist Box</text>\n\n  <!-- Footer Watermark & Dots -->\n  <text x=\"80\" y=\"990\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"700\">@novasaas</text>\n  <text x=\"1000\" y=\"990\" text-anchor=\"end\" fill=\"rgba(255,255,255,0.5)\" font-family=\"sans-serif\" font-size=\"24\" font-weight=\"bold\">Save \ud83d\udccc</text>\n</svg>"
+      }
+    ]
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "v1",
+        "timestamp": "2026-09-19T21:05:00"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 1
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

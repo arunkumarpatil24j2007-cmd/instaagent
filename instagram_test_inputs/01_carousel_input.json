@@ -1,0 +1,49 @@
+{
+  "brand": {
+    "brand_name": "NexusAI",
+    "industry": "Artificial Intelligence / Developer Tools",
+    "location": "San Francisco, CA",
+    "target_audience": "Software engineers, tech founders, AI researchers",
+    "buyer_persona": "Senior developer or CTO looking to build autonomous multi-agent pipelines with zero boilerplate",
+    "products_services": [
+      "Agent orchestration framework",
+      "Autonomous tool router",
+      "Real-time evaluation engine"
+    ],
+    "offers": [
+      "Start free with 10k monthly workflow executions",
+      "Enterprise agent audit sandbox"
+    ],
+    "positioning": "The enterprise-grade backbone for production multi-agent systems",
+    "brand_voice": "Authoritative, technical, crisp, highly pragmatic",
+    "tone": "Confident and visionary without hype",
+    "colors": ["#0F172A", "#6366F1", "#EC4899"],
+    "typography": {
+      "heading": "Outfit",
+      "body": "Inter"
+    },
+    "competitors": ["LangChain", "CrewAI", "AutoGPT"],
+    "content_pillars": [
+      "Multi-Agent System Architecture",
+      "Production LLM Reliability & Benchmarks",
+      "Engineering Deep Dives"
+    ],
+    "business_goals": ["Acquire developer signups", "Establish technical thought leadership"],
+    "marketing_objectives": ["Increase carousel bookmark rate", "Drive GitHub star velocity"],
+    "account_handle": "@nexusai_tech",
+    "website": "https://nexusai.dev"
+  },
+  "task": {
+    "type": "create_content",
+    "topic": "5 Critical Multi-Agent Orchestration Patterns",
+    "objective": "authority",
+    "target_format": "carousel"
+  },
+  "constraints": {
+    "content_type": "carousel",
+    "language": "English",
+    "max_slides": 5,
+    "approval_required": true,
+    "max_iterations": 3
+  }
+}

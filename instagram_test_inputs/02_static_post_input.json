@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "brand_name": "Aura Matcha",
+    "industry": "Health & Wellness / Direct-to-Consumer Beverage",
+    "location": "Kyoto & New York",
+    "target_audience": "Mindful professionals, biohackers, aesthetic coffee alternatives seekers",
+    "buyer_persona": "High-performing 25-40 year olds looking for clean sustained morning energy without caffeine jitters",
+    "products_services": ["Ceremonial Grade Uji Matcha", "Bamboo Whisk & Ceramic Bowl Kit"],
+    "offers": ["15% off first ritual starter kit with code RITUAL15"],
+    "positioning": "Single-origin ceremonial matcha for focused calm",
+    "brand_voice": "Serene, minimalist, elevated, sensory-rich",
+    "tone": "Calm, grounding, intentional",
+    "colors": ["#14281D", "#A3B18A", "#D4A373"],
+    "typography": {
+      "heading": "Playfair Display",
+      "body": "Inter"
+    },
+    "competitors": ["Ippodo Tea", "Golde", "Clevr Blends"],
+    "content_pillars": ["Morning Rituals", "L-Theanine Science", "Single-Origin Craft"],
+    "business_goals": ["Direct-to-consumer store sales", "Brand lifestyle recognition"],
+    "marketing_objectives": ["Drive direct shop clicks via link in bio"],
+    "account_handle": "@auramatcha",
+    "website": "https://auramatcha.com"
+  },
+  "task": {
+    "type": "create_content",
+    "topic": "Why L-Theanine + Caffeine Beats Coffee Every Single Morning",
+    "objective": "engagement",
+    "target_format": "static_post"
+  },
+  "constraints": {
+    "content_type": "static_post",
+    "language": "English",
+    "approval_required": true,
+    "max_iterations": 2
+  }
+}

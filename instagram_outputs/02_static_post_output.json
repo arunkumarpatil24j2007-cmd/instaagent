@@ -1,0 +1,157 @@
+{
+  "status": "ready_for_review",
+  "platform": "instagram",
+  "task": "create_content",
+  "content_type": "static_post",
+  "brand_summary": {
+    "brand_name": "Luxe Interior Design",
+    "industry": "Interior Design & Architecture",
+    "target_audience": "Luxury Homeowners & Developers",
+    "positioning": "",
+    "account_handle": "@luxeinteriors"
+  },
+  "research": null,
+  "strategy": {
+    "brand_name": "Luxe Interior Design",
+    "objective": "authority",
+    "content_pillars": [
+      "Educational",
+      "Authority",
+      "Social Proof",
+      "Product/Service",
+      "Engagement"
+    ],
+    "format_mix_percentage": {
+      "carousel": 55,
+      "static_post": 25,
+      "story_sequence": 20
+    },
+    "content_ideas": [
+      {
+        "title": "5 Critical Interior Design & Architecture Bottlenecks & How to Fix Them",
+        "format": "Carousel",
+        "content_pillar": "Educational",
+        "objective": "authority",
+        "hook": "If your Interior Design & Architecture growth hit a plateau, check these 5 bottlenecks.",
+        "core_idea": "Step-by-step diagnostic framework for operational and marketing bottlenecks.",
+        "cta": "Save this carousel and tag a team member who needs to see this.",
+        "visual_direction": "Clean dark mode slides with bright accent callouts for each bottleneck.",
+        "caption_direction": "Conversational, direct, breakdown of each bottleneck with actionable solutions."
+      },
+      {
+        "title": "Why Standard Industry Strategies Fail in 2026",
+        "format": "Static Post",
+        "content_pillar": "Authority",
+        "objective": "authority",
+        "hook": "The strategy everyone recommended in 2024 is now quietly hurting your conversions.",
+        "core_idea": "Contrarian perspective positioning the brand as an innovative industry leader.",
+        "cta": "Drop a comment below: Which outdated strategy are you ready to stop using?",
+        "visual_direction": "Single high-impact stat graphic with bold header typography.",
+        "caption_direction": "Short, punchy paragraphs explaining the market shift."
+      },
+      {
+        "title": "Client Case Study: 0 to 10k Qualified Leads",
+        "format": "Carousel",
+        "content_pillar": "Social Proof",
+        "objective": "sales",
+        "hook": "How we helped a client generate 10,000 qualified leads without increasing ad spend.",
+        "core_idea": "Transparent teardown of campaign architecture and results.",
+        "cta": "Send us a DM with 'GROWTH' to see if your business qualifies for a strategy audit.",
+        "visual_direction": "Data graphs, screenshots, and visual metric callouts.",
+        "caption_direction": "Proof-first breakdown of problem, intervention, and results."
+      },
+      {
+        "title": "Behind the Scenes: How We Build High-Performing Content",
+        "format": "Story Sequence",
+        "content_pillar": "Behind the Scenes",
+        "objective": "engagement",
+        "hook": "Ever wondered how top accounts plan 30 days of content in 2 hours?",
+        "core_idea": "4-part story walkthrough showing internal SOPs and tool stack.",
+        "cta": "Tap the link in our bio to grab our free planning template.",
+        "visual_direction": "Vertical 9:16 slides with interactive poll and question stickers.",
+        "caption_direction": "Casual, authentic, interactive."
+      }
+    ],
+    "strategic_recommendations": [
+      "Maintain 3-4 posts per week, balancing carousels for reach/saves and story sequences for conversions.",
+      "Focus Slide 1 design on high readability (large headline, high-contrast background).",
+      "Include direct lead-magnet CTAs in at least 30% of story sequences."
+    ]
+  },
+  "hooks": [
+    {
+      "style": "Curiosity",
+      "hook_text": "The simple reason 90% of Luxury Homeowners & Developers struggle with Why Minimalist Architecture Dominates Modern Luxury (and what top 1% do differently)",
+      "rationale": "Curiosity hooks perform exceptionally well for Interior Design & Architecture by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding Why Minimalist Architecture Dominates Modern Luxury in practical, zero-fluff value for Luxury Homeowners & Developers."
+    },
+    {
+      "style": "Contrarian",
+      "hook_text": "Stop trying to fix Why Minimalist Architecture Dominates Modern Luxury using standard advice. Here is why it backfires.",
+      "rationale": "Contrarian hooks perform exceptionally well for Interior Design & Architecture by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding Why Minimalist Architecture Dominates Modern Luxury in practical, zero-fluff value for Luxury Homeowners & Developers."
+    },
+    {
+      "style": "Problem",
+      "hook_text": "If Why Minimalist Architecture Dominates Modern Luxury is eating up your time without results, this 3-step fix changes everything.",
+      "rationale": "Problem hooks perform exceptionally well for Interior Design & Architecture by establishing immediate visual curiosity on Slide 1.",
+      "angle": "Grounding Why Minimalist Architecture Dominates Modern Luxury in practical, zero-fluff value for Luxury Homeowners & Developers."
+    }
+  ],
+  "captions": [],
+  "carousel": null,
+  "static_post": {
+    "concept": "High-impact Authority Single-Image Graphic",
+    "category": "Authority",
+    "headline": "The Unspoken Rule of Why Minimalist Architecture Dominates Modern Luxury",
+    "supporting_copy": "Strategy without clear positioning is just noise. Focus on high-intent execution.",
+    "cta": "Double tap if you agree and comment your main takeaway.",
+    "caption": "The Unspoken Rule of Why Minimalist Architecture Dominates Modern Luxury\n\nMost people overcomplicate Why Minimalist Architecture Dominates Modern Luxury.\n\nHere is the truth: when you break down Why Minimalist Architecture Dominates Modern Luxury into a clear system, everything gets significantly easier.\n\nSwipe through the slides above to see exact step-by-step instructions.\n\nKey takeaway: Strategy without clear positioning is just noise. Focus on high-intent execution.\n\nDouble tap if you agree and comment your main takeaway.\n\n#whyminimalistarchitecturedominatesmodernluxury #interiordesign&architecture #instagramgrowth #contentstrategy #marketingtips",
+    "visual_direction": "4:5 Portrait post with high contrast typography, branded background, and clean border outline.",
+    "graphic_asset_url": "https://assets.instagram.example.com/slide_1.png",
+    "graphic_svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1350\" width=\"1080\" height=\"1350\">\n  <defs>\n    <linearGradient id=\"grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#1C1917\" />\n      <stop offset=\"100%\" stop-color=\"#D97706\" />\n    </linearGradient>\n  </defs>\n  <rect width=\"100%\" height=\"100%\" fill=\"url(#grad_1)\" />\n  <rect x=\"40\" y=\"40\" width=\"1000\" height=\"1270\" fill=\"none\" stroke=\"rgba(255,255,255,0.2)\" stroke-width=\"4\" rx=\"24\"/>\n  <text x=\"80\" y=\"140\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"32\" font-weight=\"bold\" opacity=\"0.8\">SLIDE 1/1</text>\n  <text x=\"80\" y=\"260\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"52\" font-weight=\"900\" width=\"920\">The Unspoken Rule of Why Minimalist Architecture Dominates Modern Luxury</text>\n  <text x=\"80\" y=\"380\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"32\" font-weight=\"400\" opacity=\"0.9\">Strategy without clear positioning is just noise. Focus on high-intent execution.</text>\n  <circle cx=\"960\" cy=\"1230\" r=\"40\" fill=\"#D97706\" />\n  <text x=\"960\" y=\"1240\" text-anchor=\"middle\" fill=\"#FFF\" font-family=\"sans-serif\" font-size=\"28\" font-weight=\"bold\">\u2192</text>\n</svg>"
+  },
+  "story_sequence": null,
+  "calendar": null,
+  "creative": {
+    "required": true,
+    "assets": [
+      {
+        "asset_id": "static_asset_01",
+        "format": "static_post",
+        "prompt": "The Unspoken Rule of Why Minimalist Architecture Dominates Modern Luxury",
+        "description": "4:5 Portrait post with high contrast typography, branded background, and clean border outline.",
+        "status": "generated",
+        "dimensions": "1080x1080",
+        "url": "https://assets.instagram.example.com/slide_1.png",
+        "svg_content": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1080 1350\" width=\"1080\" height=\"1350\">\n  <defs>\n    <linearGradient id=\"grad_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#1C1917\" />\n      <stop offset=\"100%\" stop-color=\"#D97706\" />\n    </linearGradient>\n  </defs>\n  <rect width=\"100%\" height=\"100%\" fill=\"url(#grad_1)\" />\n  <rect x=\"40\" y=\"40\" width=\"1000\" height=\"1270\" fill=\"none\" stroke=\"rgba(255,255,255,0.2)\" stroke-width=\"4\" rx=\"24\"/>\n  <text x=\"80\" y=\"140\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"32\" font-weight=\"bold\" opacity=\"0.8\">SLIDE 1/1</text>\n  <text x=\"80\" y=\"260\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"52\" font-weight=\"900\" width=\"920\">The Unspoken Rule of Why Minimalist Architecture Dominates Modern Luxury</text>\n  <text x=\"80\" y=\"380\" fill=\"#FFFFFF\" font-family=\"sans-serif\" font-size=\"32\" font-weight=\"400\" opacity=\"0.9\">Strategy without clear positioning is just noise. Focus on high-intent execution.</text>\n  <circle cx=\"960\" cy=\"1230\" r=\"40\" fill=\"#D97706\" />\n  <text x=\"960\" y=\"1240\" text-anchor=\"middle\" fill=\"#FFF\" font-family=\"sans-serif\" font-size=\"28\" font-weight=\"bold\">\u2192</text>\n</svg>"
+      }
+    ]
+  },
+  "approval_state": {
+    "current_status": "REVIEW",
+    "allowed_transitions": [
+      "APPROVE",
+      "REJECT",
+      "REGENERATE",
+      "EDIT"
+    ],
+    "version_history": [
+      {
+        "version": "v1",
+        "timestamp": "2026-09-19T21:05:00"
+      }
+    ],
+    "feedback_history": []
+  },
+  "publishing_result": null,
+  "analytics_report": null,
+  "quality": {
+    "status": "passed",
+    "overall_score": 9.5,
+    "issues": [],
+    "iterations": 1
+  },
+  "missing_context": null,
+  "reels_notice": null
+}

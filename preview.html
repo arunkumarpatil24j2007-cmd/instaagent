@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Instagram Specialist Agent - Interactive Preview & Test Sandbox</title>
+    <style>
+        :root {
+            --bg-color: #0d0e12;
+            --card-bg: #161822;
+            --border-color: #272a38;
+            --accent-gradient: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d, #f56040, #f77737, #fcaf45);
+            --text-main: #e2e8f0;
+            --text-heading: #ffffff;
+            --text-muted: #94a3b8;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        header {
+            background-color: #12141d;
+            border-bottom: 1px solid var(--border-color);
+            padding: 16px 32px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 20px;
+            color: var(--text-heading);
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .ig-gradient-text {
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+
+        .badge {
+            background: rgba(225, 48, 108, 0.15);
+            color: #e1306c;
+            border: 1px solid rgba(225, 48, 108, 0.4);
+            padding: 4px 12px;
+            border-radius: 14px;
+            font-size: 12px;
+            font-weight: 700;
+        }
+
+        .coming-soon-tag {
+            background: rgba(245, 158, 11, 0.2);
+            color: #f59e0b;
+            border: 1px solid rgba(245, 158, 11, 0.4);
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
+
+        .main-layout {
+            display: grid;
+            grid-template-columns: 440px 1fr;
+            gap: 24px;
+            padding: 24px 32px;
+            flex-grow: 1;
+        }
+
+        .panel {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .panel-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--text-heading);
+            margin: 0 0 12px 0;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--border-color);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .form-group label {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        input[type="text"], select, textarea {
+            background-color: #0d0e12;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 10px 12px;
+            color: var(--text-main);
+            font-size: 13px;
+            width: 100%;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #e1306c;
+        }
+
+        .grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .btn-submit {
+            background: var(--accent-gradient);
+            color: white;
+            border: none;
+            padding: 14px;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 14px;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            margin-top: 8px;
+        }
+
+        .btn-submit:hover {
+            opacity: 0.9;
+        }
+
+        /* Coming Soon Banner */
+        .reels-banner {
+            background: linear-gradient(135deg, rgba(245, 158, 11, 0.15) 0%, rgba(225, 48, 108, 0.15) 100%);
+            border: 1px dashed rgba(245, 158, 11, 0.5);
+            border-radius: 12px;
+            padding: 16px;
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 8px;
+        }
+
+        .reels-icon {
+            font-size: 32px;
+        }
+
+        .reels-info h4 {
+            margin: 0 0 4px 0;
+            color: #f59e0b;
+            font-size: 14px;
+        }
+
+        .reels-info p {
+            margin: 0;
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        /* Tabs */
+        .viewer-tabs {
+            display: flex;
+            gap: 8px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 12px;
+            margin-bottom: 16px;
+        }
+
+        .vtab {
+            background: transparent;
+            border: 1px solid var(--border-color);
+            color: var(--text-muted);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 13px;
+        }
+
+        .vtab.active {
+            background: rgba(225, 48, 108, 0.2);
+            color: #ffffff;
+            border-color: #e1306c;
+        }
+
+        /* Carousel Interactive Phone Simulator */
+        .carousel-simulator {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 16px;
+        }
+
+        .phone-frame {
+            width: 380px;
+            background: #000000;
+            border: 2px solid #272a38;
+            border-radius: 24px;
+            padding: 16px;
+            box-shadow: 0 12px 32px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .phone-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #1a1d2d;
+        }
+
+        .phone-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: var(--accent-gradient);
+            color: white;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+        }
+
+        .phone-handle {
+            font-size: 13px;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .slide-svg-container {
+            width: 100%;
+            aspect-ratio: 1/1;
+            border-radius: 12px;
+            overflow: hidden;
+            background: #111;
+        }
+
+        .slide-svg-container svg {
+            width: 100%;
+            height: 100%;
+        }
+
+        .carousel-nav-controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding: 0 8px;
+        }
+
+        .nav-btn {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border: 1px solid var(--border-color);
+            padding: 8px 16px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .dots-indicator {
+            display: flex;
+            gap: 6px;
+        }
+
+        .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .dot.active {
+            background: #e1306c;
+            width: 20px;
+            border-radius: 4px;
+        }
+
+        /* Calendar Grid */
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+            gap: 12px;
+        }
+
+        .cal-card {
+            background: #0d0e12;
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .cal-date {
+            font-size: 11px;
+            font-weight: 700;
+            color: #e1306c;
+        }
+
+        .cal-topic {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--text-heading);
+        }
+
+        .cal-status {
+            align-self: flex-start;
+            font-size: 10px;
+            font-weight: 800;
+            padding: 2px 8px;
+            border-radius: 10px;
+            text-transform: uppercase;
+        }
+
+        .status-Draft { background: rgba(148, 163, 184, 0.2); color: #94a3b8; }
+        .status-Approved { background: rgba(34, 197, 94, 0.2); color: #4ade80; }
+        .status-Scheduled { background: rgba(56, 189, 248, 0.2); color: #38bdf8; }
+
+        pre.json-dump {
+            background: #090a0f;
+            color: #38bdf8;
+            padding: 16px;
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 500px;
+            overflow: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1><span class="ig-gradient-text">Instagram</span> Specialist Agent <span class="badge">Standalone Sandbox UI</span></h1>
+        <div style="font-size:13px; color:var(--text-muted);">AWS Multi-Agent System</div>
+    </header>
+
+    <div class="main-layout">
+        <!-- LEFT CONTROL PANEL -->
+        <div class="panel">
+            <div class="panel-title">
+                <span>Agent Task Configuration</span>
+                <span class="badge">Live Test</span>
+            </div>
+
+            <div class="form-group">
+                <label>Brand Name</label>
+                <input type="text" id="brand_name" value="Apex Marketing AI">
+            </div>
+
+            <div class="grid-2">
+                <div class="form-group">
+                    <label>Industry</label>
+                    <input type="text" id="industry" value="Marketing Automation">
+                </div>
+                <div class="form-group">
+                    <label>Account Handle</label>
+                    <input type="text" id="account_handle" value="@apexmarketing">
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Target Audience</label>
+                <input type="text" id="target_audience" value="B2B Founders & Growth Leaders">
+            </div>
+
+            <div class="grid-2">
+                <div class="form-group">
+                    <label>Task Type</label>
+                    <select id="task_type" onchange="handleTaskChange()">
+                        <option value="create_content">Create Content</option>
+                        <option value="create_content_calendar">Content Calendar</option>
+                        <option value="research">Instagram Research</option>
+                        <option value="create_strategy">Content Strategy</option>
+                        <option value="analytics">Analytics & Insights</option>
+                        <option value="approval_action">Approval Workflow</option>
+                        <option value="reels_generate">Reels (Coming Soon)</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Format</label>
+                    <select id="content_format">
+                        <option value="carousel">Carousel (Multi-slide)</option>
+                        <option value="static_post">Static Single Post</option>
+                        <option value="story_sequence">Story Sequence (9:16)</option>
+                        <option value="reel">Reel (Coming Soon)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label>Topic / Prompt</label>
+                <input type="text" id="topic" value="5 High-Converting Carousel Frameworks">
+            </div>
+
+            <div class="grid-2">
+                <div class="form-group">
+                    <label>Objective</label>
+                    <select id="objective">
+                        <option value="lead_generation">Lead Generation</option>
+                        <option value="brand_awareness">Brand Awareness</option>
+                        <option value="authority">Authority & Leadership</option>
+                        <option value="engagement">Engagement & Community</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Max Slides</label>
+                    <input type="text" id="max_slides" value="6">
+                </div>
+            </div>
+
+            <button class="btn-submit" onclick="executeAgentRun()">🚀 GENERATE & TEST AGENT</button>
+        </div>
+
+        <!-- RIGHT OUTPUT PANEL -->
+        <div class="panel">
+            <!-- REELS COMING SOON BANNER -->
+            <div class="reels-banner">
+                <div class="reels-icon">🎬</div>
+                <div class="reels-info">
+                    <h4>Reels & Motion Graphics — COMING SOON <span class="coming-soon-tag">Planned Architecture</span></h4>
+                    <p>Reel scripts, video scene breakdowns, motion graphics, and video rendering are architecturally reserved. Carousels, Statics, Stories, and Calendars are 100% active.</p>
+                </div>
+            </div>
+
+            <div class="panel-title">
+                <span>Structured Output Inspector</span>
+                <span id="status-badge" class="badge">READY</span>
+            </div>
+
+            <div class="viewer-tabs">
+                <button class="vtab active" onclick="switchTab('visual')">Visual Assets</button>
+                <button class="vtab" onclick="switchTab('caption')">Caption & Hooks</button>
+                <button class="vtab" onclick="switchTab('calendar')">Calendar View</button>
+                <button class="vtab" onclick="switchTab('json')">Raw JSON Payload</button>
+            </div>
+
+            <!-- VISUAL TAB -->
+            <div id="tab-visual" class="tab-content">
+                <div id="visual-workspace"></div>
+            </div>
+
+            <!-- CAPTION TAB -->
+            <div id="tab-caption" class="tab-content" style="display:none;">
+                <div id="caption-workspace"></div>
+            </div>
+
+            <!-- CALENDAR TAB -->
+            <div id="tab-calendar" class="tab-content" style="display:none;">
+                <div id="calendar-workspace"></div>
+            </div>
+
+            <!-- JSON TAB -->
+            <div id="tab-json" class="tab-content" style="display:none;">
+                <pre class="json-dump" id="json-dump">// Response JSON payload will render here...</pre>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentOutput = null;
+        let currentSlideIdx = 0;
+
+        function handleTaskChange() {
+            if (document.getElementById("task_type").value === "reels_generate") {
+                document.getElementById("content_format").value = "reel";
+            }
+        }
+
+        function switchTab(tabName) {
+            document.querySelectorAll(".tab-content").forEach(el => el.style.display = "none");
+            document.querySelectorAll(".vtab").forEach(el => el.classList.remove("active"));
+            document.getElementById(`tab-${tabName}`).style.display = "block";
+            event.target.classList.add("active");
+        }
+
+        async function executeAgentRun() {
+            const taskType = document.getElementById("task_type").value;
+            const payload = {
+                brand: {
+                    brand_name: document.getElementById("brand_name").value,
+                    industry: document.getElementById("industry").value,
+                    target_audience: document.getElementById("target_audience").value,
+                    account_handle: document.getElementById("account_handle").value,
+                    colors: ["#0F172A", "#E1306C", "#38BDF8"]
+                },
+                task: {
+                    type: taskType,
+                    topic: document.getElementById("topic").value,
+                    objective: document.getElementById("objective").value,
+                    target_format: document.getElementById("content_format").value
+                },
+                constraints: {
+                    content_type: document.getElementById("content_format").value,
+                    max_slides: parseInt(document.getElementById("max_slides").value) || 6
+                }
+            };
+
+            // Attempt Live Server API Call first
+            try {
+                const resp = await fetch("/api/run-instagram-agent", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(payload)
+                });
+                if (resp.ok) {
+                    const data = await resp.json();
+                    renderResponse(data);
+                    return;
+                }
+            } catch (e) {
+                console.log("Live server API offline, running embedded mock generator fallback...");
+            }
+
+            // Client-Side Generator Fallback (allows double-clicking file offline)
+            const fallbackData = generateOfflineMock(payload);
+            renderResponse(fallbackData);
+        }
+
+        function renderResponse(data) {
+            currentOutput = data;
+            document.getElementById("json-dump").innerText = JSON.stringify(data, null, 2);
+
+            const badge = document.getElementById("status-badge");
+            badge.innerText = (data.status || "SUCCESS").toUpperCase();
+            if (data.status === "coming_soon") {
+                badge.style.background = "rgba(245, 158, 11, 0.2)";
+                badge.style.color = "#f59e0b";
+            } else {
+                badge.style.background = "rgba(34, 197, 94, 0.2)";
+                badge.style.color = "#4ade80";
+            }
+
+            // Render Visual Tab
+            const visualWs = document.getElementById("visual-workspace");
+            visualWs.innerHTML = "";
+
+            if (data.status === "coming_soon") {
+                visualWs.innerHTML = `
+                    <div style="padding: 24px; background: rgba(245, 158, 11, 0.1); border: 1px solid #f59e0b; border-radius: 12px;">
+                        <h3 style="color: #f59e0b; margin-top:0;">🎬 Reels — Coming Soon</h3>
+                        <p style="color: #cbd5e1;">Reel generation request received. As specified, Reels are architecturally reserved and coming soon.</p>
+                        <p style="font-weight: 700; color: #fff;">Planned Future Architecture:</p>
+                        <ul>${(data.reels_notice?.future_architecture || []).map(m => `<li>${m}</li>`).join("")}</ul>
+                    </div>
+                `;
+            } else if (data.carousel) {
+                currentSlideIdx = 0;
+                renderCarouselSimulator(data.carousel);
+            } else if (data.static_post) {
+                const sp = data.static_post;
+                visualWs.innerHTML = `
+                    <div class="carousel-simulator">
+                        <div class="phone-frame">
+                            <div class="phone-header">
+                                <div class="phone-avatar">A</div>
+                                <div class="phone-handle">${data.brand_summary?.account_handle || '@brand'}</div>
+                            </div>
+                            <div class="slide-svg-container">${sp.graphic_svg || ''}</div>
+                        </div>
+                    </div>
+                `;
+            } else if (data.story_sequence) {
+                const stories = data.story_sequence.stories || [];
+                let html = `<h4>${data.story_sequence.sequence_title}</h4><div style="display:flex; gap:16px; overflow-x:auto;">`;
+                stories.forEach(s => {
+                    html += `<div style="min-width:180px; width:180px; aspect-ratio:9/16; background:#000; border-radius:12px; overflow:hidden;">${s.graphic_svg || ''}</div>`;
+                });
+                html += `</div>`;
+                visualWs.innerHTML = html;
+            }
+
+            // Caption Tab
+            const capWs = document.getElementById("caption-workspace");
+            if (data.carousel?.caption || data.static_post?.caption) {
+                const capText = data.carousel?.caption || data.static_post?.caption;
+                let hookHtml = (data.hooks || []).map(h => `<li style="margin-bottom:8px;"><strong>[${h.style}]</strong> ${h.hook_text}</li>`).join("");
+                capWs.innerHTML = `
+                    <h3>Primary Branded Caption</h3>
+                    <div style="background:#0d0e12; padding:16px; border-radius:10px; white-space:pre-wrap; border:1px solid var(--border-color);">${capText}</div>
+                    <h3 style="margin-top:20px;">Alternative Hook Angles</h3>
+                    <ul>${hookHtml}</ul>
+                `;
+            } else {
+                capWs.innerHTML = `<p style="color:var(--text-muted)">No caption payload for this task.</p>`;
+            }
+
+            // Calendar Tab
+            const calWs = document.getElementById("calendar-workspace");
+            if (data.calendar?.calendar_entries) {
+                const entries = data.calendar.calendar_entries;
+                let html = `<div class="calendar-grid">`;
+                entries.forEach(e => {
+                    html += `
+                        <div class="cal-card">
+                            <span class="cal-date">${e.date} (${e.day_of_week})</span>
+                            <span class="cal-topic">${e.topic}</span>
+                            <span style="font-size:11px; color:var(--text-muted);">Pillar: ${e.content_pillar} | ${e.format}</span>
+                            <span class="cal-status status-${e.status}">${e.status}</span>
+                        </div>
+                    `;
+                });
+                html += `</div>`;
+                calWs.innerHTML = html;
+            } else {
+                calWs.innerHTML = `<p style="color:var(--text-muted)">No calendar entries generated for this task.</p>`;
+            }
+        }
+
+        function renderCarouselSimulator(carousel) {
+            const slides = carousel.slides || [];
+            const slide = slides[currentSlideIdx] || slides[0];
+
+            let dotsHtml = slides.map((_, idx) => `<div class="dot ${idx === currentSlideIdx ? 'active' : ''}"></div>`).join("");
+
+            document.getElementById("visual-workspace").innerHTML = `
+                <div class="carousel-simulator">
+                    <div class="phone-frame">
+                        <div class="phone-header">
+                            <div class="phone-avatar">A</div>
+                            <div class="phone-handle">${document.getElementById("account_handle").value}</div>
+                        </div>
+                        <div class="slide-svg-container">${slide.graphic_svg || ''}</div>
+                        <div class="carousel-nav-controls">
+                            <button class="nav-btn" onclick="prevSlide()" ${currentSlideIdx === 0 ? 'disabled' : ''}>← Prev</button>
+                            <div class="dots-indicator">${dotsHtml}</div>
+                            <button class="nav-btn" onclick="nextSlide()" ${currentSlideIdx === slides.length - 1 ? 'disabled' : ''}>Next →</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function prevSlide() {
+            if (currentOutput?.carousel?.slides && currentSlideIdx > 0) {
+                currentSlideIdx--;
+                renderCarouselSimulator(currentOutput.carousel);
+            }
+        }
+
+        function nextSlide() {
+            if (currentOutput?.carousel?.slides && currentSlideIdx < currentOutput.carousel.slides.length - 1) {
+                currentSlideIdx++;
+                renderCarouselSimulator(currentOutput.carousel);
+            }
+        }
+
+        function generateOfflineMock(payload) {
+            const topic = payload.task?.topic || "5 High-Converting Carousel Frameworks";
+            const handle = payload.brand?.account_handle || "@brand";
+
+            if (payload.task?.type === "reels_generate" || payload.constraints?.content_type === "reel") {
+                return {
+                    status: "coming_soon",
+                    platform: "instagram",
+                    task: "reels_generate",
+                    content_type: "reel",
+                    reels_notice: {
+                        notice: "Reels — Coming Soon",
+                        coming_soon: true,
+                        future_architecture: ["Reel Strategy Engine", "Script Generator", "Scene Generator", "Motion Graphics Generator", "Video Rendering"]
+                    }
+                };
+            }
+
+            const slides = [];
+            for (let i = 1; i <= (payload.constraints?.max_slides || 5); i++) {
+                slides.push({
+                    slide_number: i,
+                    slide_title: i === 1 ? topic : `Slide ${i}: Key Execution Principle`,
+                    copy: i === 1 ? "Swipe left to see the step-by-step breakdown →" : `Actionable takeaway for principle #${i}.`,
+                    visual_direction: "High contrast mobile slide layout with branded gradient.",
+                    graphic_svg: `<svg viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg" width="1080" height="1080"><rect width="1080" height="1080" fill="#0F172A"/><rect x="0" y="0" width="${i * 200}" height="14" fill="#E1306C"/><text x="80" y="140" fill="#FFF" font-size="28">SLIDE ${i}/5</text><text x="80" y="260" fill="#FFF" font-size="52" font-weight="900">${i === 1 ? topic : 'Step ' + i}</text><text x="80" y="400" fill="#94A3B8" font-size="32">Execution principle details and framework callout.</text><text x="80" y="990" fill="#E1306C" font-size="24">${handle}</text></svg>`
+                });
+            }
+
+            return {
+                status: "ready_for_review",
+                platform: "instagram",
+                task: payload.task?.type || "create_content",
+                content_type: "carousel",
+                brand_summary: { brand_name: payload.brand?.brand_name, account_handle: handle },
+                carousel: { title: topic, total_slides: slides.length, slides: slides, caption: `${topic}\n\nSwipe through the slides above to see step-by-step implementation.\n\nSave this post for reference.` },
+                hooks: [{ style: "Curiosity", hook_text: `The simple reason 90% struggle with ${topic}` }],
+                quality: { status: "passed", overall_score: 9.6 }
+            };
+        }
+
+        // Run initial mock on load
+        window.onload = function() {
+            executeAgentRun();
+        };
+    </script>
+</body>
+</html>
